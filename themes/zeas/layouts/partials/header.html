@@ -8,7 +8,7 @@
 		{{ $currentPage := . }}
 		<ul>
 		{{ range .Site.Menus.main }}
-			<li class="{{if $currentPage.HasMenuCurrent "main" . }}active{{end}}">
+			<li {{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }} class="active"{{ end }}>
 				<a href="{{ .URL }}">{{ .Name }}</a>
 			</li>
 		{{ end }}
