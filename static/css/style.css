@@ -1,0 +1,38 @@
+@font-face {
+	font-family: 'ElamiconLiberationSerif';
+	src: url('/fonts/ElamiconLiberationSerif-Regular.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ElamiconLiberationSerif';
+	src: url('/fonts/ElamiconLiberationSerif-Bold.ttf');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ElamiconLiberationSans';
+	src: url('/fonts/ElamiconLiberationSans-Regular.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ElamiconLiberationSans';
+	src: url('/fonts/ElamiconLiberationSans-Bold.ttf');
+	font-weight: bold;
+	font-style: normal;
+}
+
+
+body {
+	font-family: "ElamiconLiberationSans", "Times New Roman";
+	color: #E2D8CF;
+	background-color: black;
+}
+
+a {
+	color: #A2787A;
+}

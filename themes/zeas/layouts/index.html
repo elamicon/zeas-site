@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <link rel="stylesheet" href="/css/style.css">
+    <title>{{ .Title }}</title>
+</head>
 <body>
     {{range where .Site.Pages "Type" "=" "home"}}
         <h1>{{ .Title }}</h1>
