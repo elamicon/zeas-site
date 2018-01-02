@@ -1,6 +1,8 @@
 #DefaultContentLanguage = "de"
 #languageCode = "de"
 
-baseurl = "http://zeas.example/"
 title = "ZEAS Zentrum für die Entzifferung antiker Schriftsysteme"
 theme = "zeas"
+
+baseurl = ""
+relativeurls = true
