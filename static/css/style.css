@@ -28,11 +28,45 @@
 
 
 body {
-	font-family: "ElamiconLiberationSans", "Times New Roman";
+	font-family: "ElamiconLiberationSans", "Verdana";
 	color: #E2D8CF;
 	background-color: black;
 }
 
 a {
 	color: #A2787A;
+}
+
+.active {
+	font-weight: bold;
+}
+
+.masthead {
+	font-family: "ElamiconLiberationSerif", "Times New Roman";
+	font-size: large;
+}
+
+.masthead a {
+	text-decoration: none;
+}
+
+.menu ul {
+	list-style: none;
+}
+
+.menu::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.menu li {
+	float: left;
+	border: 1px solid #E2D8CF;
+	padding: 0.3em;
+	text-decoration: none;
+}
+
+.menu a {
+	text-decoration: none;
 }

@@ -1,0 +1,17 @@
+<header>
+	<div class="masthead">
+		<a href="/">
+			 Zentrum für die Entzifferung Antiker Schriftsysteme 
+		</a>
+	</div>
+	<nav class="menu">
+		{{ $currentPage := . }}
+		<ul>
+		{{ range .Site.Menus.main }}
+			<li class="{{if $currentPage.HasMenuCurrent "main" . }}active{{end}}">
+				<a href="{{ .URL }}">{{ .Name }}</a>
+			</li>
+		{{ end }}
+		</ul>
+	</nav>
+</header>
