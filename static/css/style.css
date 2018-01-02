@@ -33,6 +33,12 @@ body {
 	background-color: black;
 }
 
+@media screen and (min-width: 480px) {
+   body  {
+      margin: 0 10%;
+   }
+}
+
 a {
 	color: #A2787A;
 }
