@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+    {{range where .Site.Pages "Type" "=" "home"}}
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+    {{ end }}
+</body>
+</html>
