@@ -8,8 +8,17 @@
     {{ partial "header" . }}
 
     <h2>{{ .Title }}<br><small>{{ .Params.ref }}</small></h2>
+    {{ if .Params.snap }}
+    <aside>
+        <a href="{{ .Params.file }}">
+            <img src="{{ .Params.snap }}" alt="Titelseite">
+        </a>
+    </aside>
+    {{ end }}
     {{ .Content }}
 
-    {{ with .Params.file }}<a href="{{ . }}">Download PDF</a>{{ end }}
+    {{ with .Params.file }}
+        <a href="{{ . }}">Download PDF</a>
+    {{ end }}
 </body>
 </html>

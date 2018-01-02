@@ -71,3 +71,12 @@ a {
 .menu a {
 	text-decoration: none;
 }
+
+aside {
+	float: right;
+}
+
+aside img {
+	float: right;
+	max-width: 15em;
+}
