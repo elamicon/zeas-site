@@ -6,17 +6,23 @@
 </head>
 <body>
     {{ partial "header" . }}
+    <aside>
+        <h2>Publikationen</h2>
+        <ul>
+        {{ range where .Data.Pages "Section" "pubs" }}
+            <li>
+                <a href="{{ .URL }}">
+                    {{ .Title }}
+                    <br>
+                    <span>{{ .Params.ref}}</span>
+                </a>
+            </li>
+        {{ end }}
+        </ul>
+    </aside>
     {{range where .Site.Pages "Type" "=" "home"}}
         {{ .Content }}
     {{ end }}
 
-    <div>
-        <h2>Publikationen</h2>
-        <ul>
-        {{ range where .Data.Pages "Section" "pubs" }}
-            <li><a href="{{ .URL }}">{{ .Params.ref}} - {{ .Title }}</a></li>
-        {{ end }}
-        </ul>
-    </div>
 </body>
 </html>
