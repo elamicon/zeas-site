@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/css/style.css">
+    <title>{{ .Title }}</title>
+</head>
+<body>
+    {{ partial "header" . }}
+
+    <h2>{{ .Title }}<br><small>{{ .Params.ref }}</small></h2>
+    {{ .Content }}
+
+    {{ with .Params.file }}<a href="{{ . }}">Download PDF</a>{{ end }}
+</body>
+</html>
