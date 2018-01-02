@@ -1,6 +1,5 @@
 ---
 title: Zentrum für die Entzifferung Antiker Schriftsysteme
-type: home
 ---
 
 Im Zentrum für die Entzifferung antiker Schriftsysteme (ZEAS) laufen zurzeit Projekte zu folgenden unentzifferten Schriftsystemen:

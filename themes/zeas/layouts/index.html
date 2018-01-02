@@ -20,9 +20,8 @@
         {{ end }}
         </ul>
     </aside>
-    {{range where .Site.Pages "Type" "=" "home"}}
-        {{ .Content }}
-    {{ end }}
+
+    {{ .Content }}
 
 </body>
 </html>
