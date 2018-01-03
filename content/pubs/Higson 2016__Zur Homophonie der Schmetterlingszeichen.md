@@ -4,8 +4,6 @@ ref = "Higson 2016"
 file = "/pubs/Higson 2016__Zur Homophonie der Schmetterlingszeichen.pdf"
 +++
 
-## Fazit
-
 Nach der Logik, dass zwei oder mehrere Zeichen, die niemals in der gleichen
 Inschrift vorkommen, eventuell bedeutungsgleich und austauschbar sein können,
 kann man und zu diesem Zeitpunkt als gleichbedeutend postulieren. Dies wird

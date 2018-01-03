@@ -5,8 +5,6 @@ file = "/pubs/Plachtzik et al 2016__Das Syllabar der elamischen Strichschrift.pd
 snap = "/pubs/Plachtzik et al 2016__Das Syllabar der elamischen Strichschrift.png"
 +++
 
-## Einleitung
-
 Die  elamische  Strichschrift  (engl.  Linear  Elamite)  ist  ein  unentziffertes  Schriftsystem  aus  dem
 Kulturraum   Elams.   Ein  Teil   der   Inschriften - die   Susa-Gruppe -
 kann   in   die   Regierungszeit
