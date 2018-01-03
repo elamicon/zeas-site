@@ -6,20 +6,6 @@
 </head>
 <body>
     {{ partial "header" . }}
-    <aside>
-        <h2>Publikationen</h2>
-        <ul>
-        {{ range where .Data.Pages "Section" "pubs" }}
-            <li>
-                <a href="{{ .URL }}">
-                    {{ .Title }}
-                    <br>
-                    <span>{{ .Params.ref}}</span>
-                </a>
-            </li>
-        {{ end }}
-        </ul>
-    </aside>
 
     {{ .Content }}
 
