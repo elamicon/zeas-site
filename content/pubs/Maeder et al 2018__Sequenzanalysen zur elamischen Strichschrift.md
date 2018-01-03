@@ -2,6 +2,7 @@
 title = "Sequenzanalysen zur elamischen Strichschrift"
 ref = "Mäder et al 2018"
 file = "/pubs/Maeder et al 2018__Sequenzanalysen zur elamischen Strichschrift___Sequence Analysis in Linear Elamite.pdf"
+snap = "/pubs/Maeder et al 2018__Sequenzanalysen zur elamischen Strichschrift___Sequence Analysis in Linear Elamite.png"
 +++
 
 Die elamische Strichschrift ist ein unentziffertes, wohl syllabisches Schriftsystem aus dem Kulturraum Elams. Ein Teil der Inschriften – die Susa-Gruppe – wird in die Regierungszeit Puzur-Inšušinaks
