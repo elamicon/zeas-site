@@ -1,3 +1,3 @@
 ---
-title: Publikationen
+title:  Publikationen
 ---

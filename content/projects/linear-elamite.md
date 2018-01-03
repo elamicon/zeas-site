@@ -35,3 +35,5 @@ Fertigstellen des Fachartikels "Sequenzanalysen zur elamischen Strichschrift"
 Zusammenfassung der Resultate in einer für die Öffentlichkeit lesbaren Publikation (Buch) in Europa sowie, mithilfe der Persischkenntnisse von Nabi Jaffari, im Iran. So können der iranischen Bevölkerung, die sich allgemein sehr für ihr kulturelles Erbe interessiert, unsere Resultate dargelegt werden. Es ist sehr schade, dass in Europa viel über die iranische Vergangenheit geforscht wird, von dem die Iraner aber gar nie etwas erfahren, weil ihnen deutsch- und Englischsprachige Fachartikel nicht im Ansatz zugänglich sind.
 Vorträge vor einem nichtakademischen Publikum, Einbezug von Laien aller Interessensgebiete (sog. Open-Public-Ansatz), um möglichst viele Hirne in den Entzifferungsprozess einzubeziehen und Bern als Ganzes zu einem Kompetenzzentrum für die moderne, computergestützte Schriftentzifferung zu machen.
 Wecken des öffentlichen Interesses (Interviews in Zeitschriften, guter Online-Auftritt), um dem Steuerzahler zu zeigen, welch spannende Tätigkeiten an der Universität Bern durchgeführt werden.
+
+http://elamicon.org
