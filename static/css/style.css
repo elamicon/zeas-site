@@ -100,3 +100,15 @@ aside img {
 	float: right;
 	max-width: 15em;
 }
+
+#background {
+   position: fixed;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   z-index: -1;
+   overflow: hidden;
+   opacity: 0.15;
+   font-size: 100pt;
+}
