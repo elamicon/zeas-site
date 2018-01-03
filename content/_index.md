@@ -5,8 +5,11 @@ title: Zentrum für die Entzifferung Antiker Schriftsysteme
 Im Zentrum für die Entzifferung antiker Schriftsysteme (ZEAS) laufen zurzeit Projekte zu folgenden unentzifferten Schriftsystemen:
 
 - Elamische Strichschrift
-- Kypro-Minoisch, die Byblos-Schrift
-- Donauschrift, Vinča Linear (osteuropäische runenartige Inschriften), Lepontisch.
+- Kypro-Minoisch
+- Die Byblos-Schrift
+- Donauschrift
+- Vinča Linear (osteuropäische runenartige Inschriften)
+- Lepontisch
 
 Die Projekte bestehen aus folgenden Teilschritten:
 
