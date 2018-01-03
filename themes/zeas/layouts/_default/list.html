@@ -11,7 +11,12 @@
 
     {{ range .Data.Pages }}
         <li>
-            <a href="{{.URL}}">{{.Title}}</a>
+            <a href="{{.URL}}">
+				{{.Title}}
+				{{ with .Params.ref }}
+					<span class="ref">{{ . }}</span>
+				{{ end }}
+			</a>
         </li>
     {{ end }}
 </body>

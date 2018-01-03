@@ -6,3 +6,5 @@ theme = "zeas"
 
 baseurl = ""
 relativeurls = true
+
+SectionPagesMenu = "main"

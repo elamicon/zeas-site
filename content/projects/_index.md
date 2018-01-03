@@ -1,4 +1,3 @@
 ---
 title: Projekte
-menu: main
 ---
