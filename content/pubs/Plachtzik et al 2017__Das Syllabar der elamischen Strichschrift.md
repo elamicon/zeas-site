@@ -1,6 +1,6 @@
 +++
 title = "Das Syllabar der elamischen Strichschrift"
-ref = "Plachtzik et al 2016"
+ref = "Plachtzik et al 2017"
 file = "/pubs/Plachtzik et al 2017__Das Syllabar der elamischen Strichschrift - Eine Zeichenanalyse.pdf"
 snap = "/pubs/Plachtzik et al 2016__Das Syllabar der elamischen Strichschrift.png"
 +++
