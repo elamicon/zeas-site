@@ -1,0 +1,14 @@
+#!/bin/sh
+set -ex
+
+# Build webpages
+hugo
+
+# Build elamicon tool
+git clone --depth 1 https://github.com/elamicon/elamicon.git elamicon
+(
+  cd elamicon
+  npm install
+  make build
+)
+mv elamicon/build public/tool

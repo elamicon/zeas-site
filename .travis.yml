@@ -1,0 +1,13 @@
+language: node_js
+before_install:
+  - sudo apt-get install -y python-fontforge hugo
+addons:
+  apt:
+    update: true
+git:
+  quiet: true
+branches:
+  only:
+  - master
+  - public
+script: bin/ci
