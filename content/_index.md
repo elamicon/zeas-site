@@ -15,7 +15,7 @@ Die Projekte bestehen aus folgenden Teilschritten:
 
 - Digitalisieren der Zeichen und Varianten
 - Kreieren einer Unicode-Font
-- Programmieren eines dynamischen Syllabars (siehe www.elamicon.org)
+- Programmieren eines dynamischen Syllabars
 - Suchen von kongruenten und teilkongruenten Sequenzen mithilfe von Regular-Expressions
 - Darstellen der Resultate in sogenannten Slot-Tabellen (siehe Kapitel 4 und 5 der Arbeit "Sequenzanalysen zur elamischen Strichschrift")
 - Feststellen von Wortgrenzen
