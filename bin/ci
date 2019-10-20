@@ -11,3 +11,6 @@ git clone --depth 1 https://github.com/elamicon/elamicon.git elamicon
   make build
 )
 mv elamicon/build public/tool
+
+# Tell Github Pages what domain to serve from
+echo center-for-decipherment.ch > public/CNAME
