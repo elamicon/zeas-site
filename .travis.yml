@@ -18,7 +18,6 @@ script: bin/ci
 deploy:
     provider: pages
     local_dir: public
-    target_branch: gh-pages
     github_token: $GITHUB_TOKEN
     skip_cleanup: true
     on:
