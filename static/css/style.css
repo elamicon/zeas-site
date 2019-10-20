@@ -115,4 +115,5 @@ aside img {
    opacity: 0.15;
    font-size: 100pt;
    word-break: break-all;
+   filter: blur(3px);
 }
