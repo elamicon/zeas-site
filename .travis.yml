@@ -13,7 +13,6 @@ git:
 branches:
   only:
   - master
-  - public
 script: bin/ci
 deploy:
     provider: pages
@@ -21,4 +20,4 @@ deploy:
     github_token: $GITHUB_TOKEN
     skip_cleanup: true
     on:
-      branch: public
+      branch: master

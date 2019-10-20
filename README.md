@@ -1,5 +1,7 @@
 # Website center-for-decipherment.ch
 
+[![Build Status](https://travis-ci.com/elamicon/zeas-site.svg?branch=master)](https://travis-ci.com/elamicon/zeas-site)
+
 # Build
 
 Install and run `hugo` to build the site.
