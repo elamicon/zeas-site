@@ -8,7 +8,6 @@ hugo
 git clone --depth 1 https://github.com/elamicon/elamicon.git elamicon
 (
   cd elamicon
-  npm install
   make build
 )
 mv elamicon/build public/tool
