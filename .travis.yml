@@ -4,7 +4,7 @@ node_js:
 dist: bionic
 before_install:
   - sudo apt-get install -y python-fontforge hugo
-  - npm install -g elm@elm0.19.0
+  - npm install -g elm@elm0.19.0 uglifyjs
 addons:
   apt:
     update: true
