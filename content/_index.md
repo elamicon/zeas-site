@@ -1,5 +1,6 @@
 ---
 title: GEAS — Alice Kober Gesellschaft für die Entzifferung Antiker Schriftsysteme
+bigtitle: 1
 ---
 
 In der GEAS laufen zurzeit Projekte zu folgenden unentzifferten Schriftsystemen:

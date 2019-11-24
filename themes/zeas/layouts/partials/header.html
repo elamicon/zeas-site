@@ -1,7 +1,21 @@
-<header>
+<header     
+{{ if .Params.bigtitle }}
+	class="big"
+{{ end }}>
+{{ if .Params.bigtitle }}
+{{ else }}
+	<a href="/">
+		<img src="/logo.png" alt="GEAS logo" class="logo">
+	</a>
+{{ end }}
 	<div class="masthead">
+		{{ if .Params.bigtitle }}
+			<img src="/banner.png" alt="GEAS banner" class="banner">
+		{{ end }}
 		<a href="/">
-			 Zentrum für die Entzifferung Antiker Schriftsysteme 
+			<span class="title">
+				Alice Kober Gesellschaft für die Entzifferung antiker Schriftsysteme
+			</span>
 		</a>
 	</div>
 	<nav class="menu">
