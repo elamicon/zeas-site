@@ -20,5 +20,8 @@
     {{ with .Params.file }}
         <a href="{{ . }}">Download PDF</a>
     {{ end }}
+    {{ if .Params.file_doc }}
+        <a href="{{ .Params.file_doc }}">Download DOC</a>
+    {{ end }}
 </body>
 </html>
