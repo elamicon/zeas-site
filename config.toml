@@ -1,7 +1,7 @@
 #DefaultContentLanguage = "de"
 #languageCode = "de"
 
-title = "ZEAS Zentrum für die Entzifferung antiker Schriftsysteme"
+title = "GEAS Zentrum für die Entzifferung antiker Schriftsysteme"
 theme = "zeas"
 
 baseurl = ""
