@@ -1,4 +1,5 @@
 ---
+photo: /contributors/michael_mäder.png
 name: Michael Mäder
 institution: Institut für Sprachwissenschaft, Universität Bern
 function: Wissenschaftliche Leitung GEAS

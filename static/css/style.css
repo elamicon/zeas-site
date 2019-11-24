@@ -131,6 +131,54 @@ aside img {
 	max-width: 15em;
 }
 
+.listing li {
+	list-style: none;
+	background-color: #5D3032;
+	margin: 0.5em;
+}
+
+.listing a {
+	text-decoration: none;
+	display: block;
+	padding: 0.5em;
+	overflow: auto;
+	clear: both;
+}
+
+.listing h3 {
+	margin: 0;
+}
+
+.team li {
+	position: relative;
+}
+
+.team .photo {
+	float: left;
+	width: 10em;
+}
+
+.team .photo img {
+	width: 9em;
+}
+
+.member-details {
+	float: left;
+	overflow: auto;
+	display: block;
+}
+
+.member-details dt {
+	float: left;
+	clear: both;
+	min-width: 6em;
+}
+
+.member-details dd {
+	float: left;
+	margin-left: 1em;
+}
+
 #background {
    position: fixed;
    top: 0;

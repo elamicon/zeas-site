@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/css/style.css">
+    <title>{{ .Title }}</title>
+</head>
+<body>
+    {{ partial "header" . }}
+
+    <h2>{{ .Title }}</h2>
+	
+	{{ .Content }}
+
+	<ul class="team listing">
+    {{ range .Data.Pages.ByWeight }}
+        <li>
+            <a href="{{.URL}}">
+            <div class="photo">
+            {{ if .Params.photo }}
+                <img src="{{ .Params.photo }}" alt="Photo {{ .Params.name }}">
+            {{ end }}
+                &nbsp;
+            </div>
+                {{ partial "member" . }}
+			</a>
+        </li>
+    {{ end }}
+    </ul>
+</body>
+</html>

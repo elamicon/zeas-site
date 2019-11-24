@@ -11,13 +11,13 @@
 	
 	{{ .Content }}
 
-	<ul>
+	<ul class="listing">
     {{ range .Data.Pages }}
         <li>
             <a href="{{.URL}}">
-				{{.Title}}
+				<h3>{{.Title}}</h3>
 				{{ with .Params.ref }}
-					(<span class="ref">{{ . }}</span>)
+					<span class="ref">{{ . }}</span>
 				{{ end }}
 			</a>
         </li>

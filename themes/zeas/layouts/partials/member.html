@@ -1,0 +1,24 @@
+<dl class="member-details">
+
+    <dt>Name</dt>
+    <dd><h3>{{ .Params.name }}</h3></dd>
+
+{{ with .Params.institution }}
+    <dt>Institution</dt>
+    <dd>{{ . }}</dd>
+{{ end }}
+
+    <dt>Funktion</dt>
+    <dd>{{ .Params.function }}</dd>
+
+{{ with .Params.list_of_publications }}
+    <dt>Publikationsliste</dt>
+    <dd>{{ . }}</dd>
+{{ end }}
+
+{{ with .Params.contact }}
+    <dt>Kontakt</dt>
+    <dd>{{ . }}</dd>
+{{ end }}
+
+</dl>

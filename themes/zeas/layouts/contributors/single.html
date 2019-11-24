@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/css/style.css">
+    <title>{{ .Title }}</title>
+</head>
+<body>
+    {{ partial "header" . }}
+
+    <h2>{{ .Params.name }}<br><small>{{ .Params.function }}</small></h2>
+    
+{{ if .Params.photo }}
+    <aside>
+        <img src="{{ .Params.photo }}" alt="Photo {{ .Params.name }}">
+    </aside>
+{{ end }}
+
+    {{ .Content }}
+
+    {{ partial "member" . }}
+</body>
+</html>
