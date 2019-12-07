@@ -2,4 +2,4 @@
 title: Standards & Definitions
 ---
 
-[GEAS Methodology for Statistical Script Comparison](/standards/GEAS%20Methodology%20for%20Statistical%20Script%20Comparison.pdf)
+[GEAS Methodology for Statistical Script Comparison](/standards/GEAS_Methodology_for_Statistical_Script_Comparison.pdf)
