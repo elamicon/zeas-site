@@ -18,5 +18,12 @@
     {{ .Content }}
 
     {{ partial "member" . }}
+    
+{{ with .Params.list_of_publications }}
+    <br>
+    <dt>Publikationen</dt>
+    <dd><a href="{{ . }}">Download PDF</a></dd>
+{{ end }}
+    
 </body>
 </html>
