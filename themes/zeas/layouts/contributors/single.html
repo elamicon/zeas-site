@@ -20,9 +20,11 @@
     {{ partial "member" . }}
     
 {{ with .Params.list_of_publications }}
-    <br>
-    <dt>Publikationen</dt>
-    <dd><a href="{{ . }}">Download PDF</a></dd>
+    <dl class="member-details">
+    
+        <dt>Publikationen</dt>
+        <dd><a href="{{ . }}">Download PDF</a></dd>
+    </dl>
 {{ end }}
     
 </body>
