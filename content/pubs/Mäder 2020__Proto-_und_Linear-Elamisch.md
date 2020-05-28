@@ -1,7 +1,7 @@
 +++
 title = "Proto- und Linear-Elamisch: Berechnung des Jaccard-Index zur Valorisierung der grafischen Ähnlichkeit"
 ref = "Mäder 2020"
-file = "/pubs/Proto-_und_Linear-Elamisch.pdf"
+file = "/pubs/Mäder 2020__Proto-_und_Linear-Elamisch.pdf"
 aliases = [
     "/pubs/Proto-_und_Linear-Elamisch"
 ]
