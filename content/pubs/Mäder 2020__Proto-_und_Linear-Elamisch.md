@@ -1,7 +1,7 @@
 +++
 title = "Proto- und Linear-Elamisch: Berechnung des Jaccard-Index zur Valorisierung der grafischen Ähnlichkeit"
 ref = "Mäder 2020"
-file = "/pubs/Mäder 2020__Proto-_und_Linear-Elamisch.pdf"
+file = "/pubs/Proto-_und_Linear-Elamisch.pdf"
 +++
 
 Die beiden hier behandelten Schriftsysteme wurden ursprünglich als eines angesehen (vgl. Scheil 1905).
