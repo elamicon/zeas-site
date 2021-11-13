@@ -11,7 +11,7 @@ Die GEAS ist eine Vereinigung verschiedener in der technischen Schriftentzifferu
 **Was du mitbringen solltest**:
 
 * Sprachkenntnisse F/E
-* Einen eigenen Laptop (Windows)
+* Einen eigenen Laptop (Windows/ oder Mac)
 
 
 **Bewerbungen an**:
