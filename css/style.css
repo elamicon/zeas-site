@@ -1,0 +1,194 @@
+@font-face {
+	font-family: 'ElamiconLiberationSerif';
+	src: url('../tool/fonts/ElamiconLiberationSerif-Regular.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ElamiconLiberationSerif';
+	src: url('../tool/fonts/ElamiconLiberationSerif-Bold.ttf');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ElamiconLiberationSans';
+	src: url('../tool/fonts/ElamiconLiberationSans-Regular.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ElamiconLiberationSans';
+	src: url('../tool/fonts/ElamiconLiberationSans-Bold.ttf');
+	font-weight: bold;
+	font-style: normal;
+}
+
+
+body {
+	font-family: "ElamiconLiberationSans", "Verdana";
+	color: #E2D8CF;
+	background-color: black;
+}
+
+@media screen and (min-width: 480px) {
+   body  {
+      margin: 0 10%;
+   }
+}
+
+a {
+	color: #A2787A;
+}
+
+header {
+	position: relative;
+	padding-left: 100px;
+}
+
+header.big {
+	padding-left: 0;
+}
+
+.logo {
+	position: absolute;
+	left: 0;
+	width: 100px;
+}
+
+.masthead {
+	display: inline-block;
+	font-size: 200%;
+}
+
+.masthead.big {
+	font-size: 400%;
+}
+
+
+.banner {
+	height: 4em;
+	display: block;
+}
+
+.masthead .title {
+	display: inline-block;
+	font-family: "ElamiconLiberationSerif", "Times New Roman";
+	background-color: #5D3032;
+	padding: 0.5em;
+}
+
+
+.masthead a {
+	text-decoration: none;
+}
+
+.menu ul {
+	margin: 0;
+	padding: 0;
+	font-family: "ElamiconLiberationSerif", "Times New Roman";
+	list-style: none;
+}
+
+.menu::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.menu li {
+	float: left;
+	border: 1px solid #5D3032;
+	border-top: none;
+	padding: 0.3em;
+	margin: 0 0.4em 0 0;
+	text-decoration: none;
+}
+
+.menu li.active {
+	background-color: #5D3032;
+}
+
+.menu li.active a {
+	color: #F1D9DA;
+}
+
+.menu a {
+	text-decoration: none;
+}
+
+aside {
+	margin: 0.5em;
+	padding: 1em;
+	background-color: rgba(214, 217, 218, 0.2);
+	float: right;
+}
+
+aside img {
+	float: right;
+	max-width: 15em;
+}
+
+.listing li {
+	list-style: none;
+	background-color: #5D3032;
+	margin: 0.5em;
+}
+
+.listing a {
+	text-decoration: none;
+	display: block;
+	padding: 0.5em;
+	overflow: auto;
+	clear: both;
+}
+
+.listing h3 {
+	margin: 0;
+}
+
+.team li {
+	position: relative;
+}
+
+.team .photo {
+	float: left;
+	width: 10em;
+}
+
+.team .photo img {
+	width: 9em;
+}
+
+.member-details {
+	float: left;
+	overflow: auto;
+	display: block;
+}
+
+.member-details dt {
+	float: left;
+	clear: both;
+	min-width: 6em;
+}
+
+.member-details dd {
+	float: left;
+	margin-left: 1em;
+}
+
+#background {
+   position: fixed;
+   top: 0;
+   bottom: 0;
+   left: -1em;
+   right: -1em;
+   z-index: -1;
+   overflow: hidden;
+   opacity: 0.15;
+   font-size: 100pt;
+   word-break: break-all;
+   filter: blur(3px);
+}
