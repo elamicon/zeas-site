@@ -1,19 +1,40 @@
 <dl class="member-details">
 
-    <dt>Name</dt>
-    <dd><h3>{{ .Params.name }}</h3></dd>
+    <div>
+        <dt>Name</dt>
+        <dd><h3>{{ .Params.name }}</h3></dd>
+    </div>
 
 {{ with .Params.institution }}
-    <dt>Institution</dt>
-    <dd>{{ . }}</dd>
+    <div>
+        <dt>Institution</dt>
+        <dd>{{ . }}</dd>
+    </div>
 {{ end }}
 
-    <dt>Funktion</dt>
-    <dd>{{ .Params.function }}</dd>
+    <div>
+        <dt>Funktion</dt>
+        <dd>{{ .Params.function }}</dd>
+    </div>
 
 {{ with .Params.contact }}
-    <dt>Kontakt</dt>
-    <dd>{{ . }}</dd>
+    <div>
+        <dt>Kontakt</dt>
+        <dd>{{ . }}</dd>
+    </div>
 {{ end }}
-    
+
+{{ with .Params.list_of_publications }}
+    <div>
+        <dt></dt>
+        <dd>
+            <a href="{{ . }}" class="download-button">
+                Publications
+            </a>
+        </dd>
+    </div>
+{{ end }}
+
 </dl>
+
+

@@ -8,7 +8,7 @@
     {{ partial "header" . }}
 
     <h2>{{ .Params.name }}<br><small>{{ .Params.function }}</small></h2>
-    
+
 {{ if .Params.photo }}
     <aside>
         <img src="{{ .Params.photo }}" alt="Photo {{ .Params.name }}">
@@ -18,14 +18,7 @@
     {{ .Content }}
 
     {{ partial "member" . }}
-    
-{{ with .Params.list_of_publications }}
-    <dl class="member-details">
-    
-        <dt>Publikationen</dt>
-        <dd><a href="{{ . }}">Download PDF</a></dd>
-    </dl>
-{{ end }}
-    
+
+
 </body>
 </html>

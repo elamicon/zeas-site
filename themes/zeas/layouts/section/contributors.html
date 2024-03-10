@@ -14,15 +14,13 @@
 	<ul class="team listing">
     {{ range .Data.Pages.ByWeight }}
         <li>
-            <a href="{{.RelPermalink}}">
             <div class="photo">
             {{ if .Params.photo }}
                 <img src="{{ .Params.photo }}" alt="Photo {{ .Params.name }}">
             {{ end }}
                 &nbsp;
             </div>
-                {{ partial "member" . }}
-			</a>
+            {{ partial "member" . }}
         </li>
     {{ end }}
     </ul>

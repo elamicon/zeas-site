@@ -14,7 +14,7 @@
 	<ul class="listing">
     {{ range .Data.Pages }}
         <li>
-            <a href="{{.RelPermalink}}">
+            <a href="{{.RelPermalink}}" class="entry">
 				<h3>{{.Title}}</h3>
 				{{ with .Params.ref }}
 					<span class="ref">{{ . }}</span>
