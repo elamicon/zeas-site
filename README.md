@@ -1,13 +1,13 @@
 # Website center-for-decipherment.ch
 
-[![Build Status](https://travis-ci.com/elamicon/zeas-site.svg?branch=master)](https://travis-ci.com/elamicon/zeas-site)
+[![CI](https://github.com/elamicon/zeas-site/actions/workflows/ci-deploy.yml/badge.svg)](https://github.com/elamicon/zeas-site/actions/workflows/ci-deploy.yml)
+
 
 # Build
 
 Install and run `hugo` to build the site.
 
+
 # Deploy
 
-Deployment is done by travis. It builds both the static site and the app and pushes the result to branch `gh-pages`. This branch is served by Github Pages from center-for-decipherment.ch.
-
-Travis watches the ` master` branch and deploys this branch to Github Pages.
+Github actions build the site and push it to `gh-pages`. This branch is served by Github Pages from https://center-for-decipherment.ch.

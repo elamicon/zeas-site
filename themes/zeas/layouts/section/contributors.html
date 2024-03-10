@@ -8,13 +8,13 @@
     {{ partial "header" . }}
 
     <h2>{{ .Title }}</h2>
-	
+
 	{{ .Content }}
 
 	<ul class="team listing">
     {{ range .Data.Pages.ByWeight }}
         <li>
-            <a href="{{.URL}}">
+            <a href="{{.RelPermalink}}">
             <div class="photo">
             {{ if .Params.photo }}
                 <img src="{{ .Params.photo }}" alt="Photo {{ .Params.name }}">

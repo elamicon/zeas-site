@@ -1,0 +1,57 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: debian:stable
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Install dependencies
+      run: |
+        apt-get update
+        apt-get install -y python3-fontforge hugo nodejs npm zip
+        npm install -g elm@0.19.1 uglify-js
+
+    - name: Run CI script
+      run: ./bin/ci
+
+    - name: Fix permissions
+      run: |
+        chmod -c -R +rX "public/" | while read line; do
+          echo "::warning title=Invalid file permissions automatically fixed::$line"
+        done
+
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: public
+
+  deploy:
+    needs: build
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

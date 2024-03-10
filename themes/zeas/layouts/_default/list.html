@@ -8,13 +8,13 @@
     {{ partial "header" . }}
 
     <h2>{{ .Title }}</h2>
-	
+
 	{{ .Content }}
 
 	<ul class="listing">
     {{ range .Data.Pages }}
         <li>
-            <a href="{{.URL}}">
+            <a href="{{.RelPermalink}}">
 				<h3>{{.Title}}</h3>
 				{{ with .Params.ref }}
 					<span class="ref">{{ . }}</span>
