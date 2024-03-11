@@ -9,21 +9,26 @@
 	</a>
 {{ end }}
 	<div class="masthead">
-		{{ if .Params.bigtitle }}
-			<img src="/banner.png" alt="GEAS banner" class="banner">
-		{{ end }}
 		<a href="/">
-			<span class="title">
-				Alice Kober Gesellschaft für die Entzifferung antiker Schriftsysteme
-			</span>
+			{{ if .Params.bigtitle }}
+				<img src="/banner.png" alt="GEAS banner" class="banner">
+			{{ end }}
+			<h1>
+				<div class="title">
+					Alice Kober Gesellschaft für die Entzifferung antiker Schriftsysteme
+				</div>
+				<div class="subtitle">
+					A safe place for fully methodical, Unicode based script decipherment
+				</div>
+			</h1>
 		</a>
 	</div>
 	<nav class="menu">
 		{{ $currentPage := . }}
 		<ul>
-		{{ range .Site.Menus.main }}
+		{{ range (.Site.Menus.main.ByWeight) }}
 			<li {{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }} class="active"{{ end }}>
-				<a href="{{ .URL }}">{{ .Name }}</a>
+				<a href="{{ .URL }}">{{ with .Page.Params.shorttitle }}{{ . }}{{ else }}{{ .Name }}{{ end }}</a>
 			</li>
 		{{ end }}
 		</ul>

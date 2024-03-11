@@ -1,3 +1,4 @@
 ---
-title: GEAS Team
+title: Team
+weight: 20
 ---

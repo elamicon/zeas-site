@@ -1,5 +1,6 @@
 ---
 title: Standards & Definitions
+weight: 30
 ---
 
 Given the fact that every decipherment problem is embedded in its own archaeological and linguistic sphere, and, as a consequence, has developed its own specific terminology and code cracking aproach, no cross-linguistic methodology has been established upt to date. After years of publishing scientific papers on particular writing systems, GEAS team members and cheerleaders estimate that more than 90 % of all decipherment proposals published in scientific papers are so-called dead end attempts or "bunkers", i.e. may seem to be coherent, successfull decipherments in itself, but are not anchored in either external (mathematical, archaeological, or linguistic) evidence, nor in a quantitative-linguistic methodology established independently from the writing system in question.

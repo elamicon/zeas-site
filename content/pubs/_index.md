@@ -1,4 +1,4 @@
 ---
 title: Publications
-toolbox: 1
+weight: 40
 ---

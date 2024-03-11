@@ -60,11 +60,10 @@ header.big {
 
 .masthead {
 	display: inline-block;
-	font-size: 200%;
 }
 
 .masthead.big {
-	font-size: 400%;
+	font-size: 200%;
 }
 
 
@@ -73,11 +72,23 @@ header.big {
 	display: block;
 }
 
-.masthead .title {
-	display: inline-block;
-	font-family: "ElamiconLiberationSerif", "Times New Roman";
-	background-color: #5D3032;
+h1 {
+	margin: 0;
 	padding: 0.5em;
+	background-color: #5D3032;
+	color: #d5c0c0;
+
+}
+
+h1 .title {
+	font-family: "ElamiconLiberationSerif", "Times New Roman";
+	font-size: 1.5ex;
+}
+
+h1 .subtitle {
+	font-family: "ElamiconLiberationSerif", "Times New Roman";
+	font-size: 1ex;
+	text-align: right;
 }
 
 
