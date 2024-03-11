@@ -1,3 +1,4 @@
 ---
-title:  Publikationen
+title: Publications
+toolbox: 1
 ---

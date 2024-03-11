@@ -119,6 +119,30 @@ header.big {
 	text-decoration: none;
 }
 
+.menu .highlight {
+	background-color: #30191a;
+}
+
+.toolbox {
+	float: right;
+	margin: 0.5em;
+	padding: 0.5ex 1em 1ex 1em;
+	border-radius: 10px;
+	background-color: #2a2a2a;
+}
+
+.toolbox h3 {
+	text-align: center;
+	margin: 0.5em 0;
+}
+
+.toolbox a {
+	display: block;
+	text-align: center;
+	padding: 0.1em;
+	margin: 0.5m 0;
+}
+
 aside {
 	margin: 0.5em;
 	padding: 1em;
