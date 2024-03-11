@@ -25,4 +25,6 @@ Over the past years, several lectures pertaining cross-linguistic decipherment m
 
 21.4.2020 [Les méthodes computationnelles de déchiffrement des écritures non alphabétiques](https://unil.ch/clsl/home/menuinst/recherche/conferences/2020.html). Conférence présentée dans le cadre du séminaire de Patrick Michel, Antoine Viredaz, Michiel de Vaan et Francesca Dell'Oro, "Les écritures non alphabétiques de l’Antiquité"
 
+2021 [Forum Antike Bern: Elamisch](https://www.altertum.unibe.ch/antike_sprachen/elamisch/)
 
+2021 [Forum Antike Bern: Akkadisch](https://www.altertum.unibe.ch/antike_sprachen/akkadisch/)
