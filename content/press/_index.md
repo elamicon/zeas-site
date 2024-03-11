@@ -7,7 +7,7 @@ weight: 100
 
 ### Media reports
 
-26.08.2022 [Archaeologists report deciphering Elamite script discovered in southern Iran](https://www.tehrantimes.com/news/476079/Archaeologists-report-deciphering-Elamite-script-discovered-in)
+26.08.2022 [Tehran Times: Archaeologists report deciphering Elamite script discovered in southern Iran](https://www.tehrantimes.com/news/476079/Archaeologists-report-deciphering-Elamite-script-discovered-in)
 
 23.08.2022 [Hindustan Times: Archaeological mystery: Ancient Elamite script from Iran deciphered?](https://www.hindustantimes.com/lifestyle/art-culture/archaeological-mystery-ancient-elamite-script-from-iran-deciphered-101661235607104.html)
 
