@@ -236,6 +236,31 @@ dl.member-details {
 	padding: 2px 5px;
    }
 
+table.journal td {
+	padding: 0.5em;
+}
+
+table.journal tr:nth-child(odd) {
+	background-color: #404040;
+}
+
+table.journal tr:nth-child(even) {
+	background-color: #3d1f21;
+}
+
+.download-button {
+	display: block;
+	padding: 0.5em;
+	overflow: auto;
+	color:#E2D8CF;
+	background-color: rgba(214, 217, 218, 0.2);
+	display: inline-block;
+	border-radius: 5px;
+}
+
+
+
+
 
 #background {
    position: fixed;
