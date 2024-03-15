@@ -9,6 +9,7 @@ git clone --depth 1 https://github.com/elamicon/elamicon.git elamicon
 (
   cd elamicon
   make build
+  make webfonts
 )
 mv elamicon/build public/tool
 

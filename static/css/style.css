@@ -1,36 +1,42 @@
 @font-face {
-	font-family: 'GEASLiberationSerif';
-	src: url('../tool/fonts/GEASLiberationSerif-Regular.ttf');
+	font-family: 'GEASRedditSans';
+	src: url('../tool/fonts/GEASRedditSans-Regular.ttf');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'GEASLiberationSerif';
-	src: url('../tool/fonts/GEASLiberationSerif-Bold.ttf');
+	font-family: 'GEASRedditSans';
+	src: url('../tool/fonts/GEASRedditSans-Bold.ttf');
 	font-weight: bold;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'GEASLiberationSans';
-	src: url('../tool/fonts/GEASLiberationSans-Regular.ttf');
+	font-family: 'GEASRedditSansCondensed';
+	src: url('../tool/fonts/GEASRedditSans-Regular.ttf');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'GEASLiberationSans';
-	src: url('../tool/fonts/GEASLiberationSans-Bold.ttf');
+	font-family: 'GEASRedditSansCondensed';
+	src: url('../tool/fonts/GEASRedditSansCondensed-Regular.ttf');
 	font-weight: bold;
 	font-style: normal;
 }
 
 
 body {
-	font-family: "GEASLiberationSans", "Verdana";
+	font-family: "GEASRedditSans", "Verdana";
 	color: #E2D8CF;
 	background-color: black;
+}
+
+@media only screen and (max-width: 1000px) {
+    body {
+        font-family: "GEASRedditSansCondensed", "Verdana";
+    }
 }
 
 @media screen and (min-width: 480px) {
@@ -81,12 +87,10 @@ h1 {
 }
 
 h1 .title {
-	font-family: "GEASLiberationSerif", "Times New Roman";
 	font-size: 1.5ex;
 }
 
 h1 .subtitle {
-	font-family: "GEASLiberationSerif", "Times New Roman";
 	font-size: 1ex;
 	text-align: right;
 }
@@ -99,7 +103,6 @@ h1 .subtitle {
 .menu ul {
 	margin: 0;
 	padding: 0;
-	font-family: "GEASLiberationSerif", "Times New Roman";
 	list-style: none;
 }
 
