@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/css/style.css">
+    <title>{{ .Title }}</title>
+</head>
+<body>
+    {{ partial "header" . }}
+
+    <h2>{{ .Title }}</h2>
+
+	{{ .Content }}
+
+	<table class="journal">
+        <thead>
+        <tr>
+            <th>Authors</th>
+            <th>Title</th>
+            <th>No.</th>
+            <th>&nbsp;</th>
+        </tr>
+        </thead>
+    {{ range .Data.Pages }}
+        <tr>
+            <td>
+                <h3>{{ .Params.authors }}</h3>
+            </td>
+            <td>
+                <a href="{{ .Params.file }}">
+                    <h3>{{ .Params.title }}</h3>
+                </a>
+            </td>
+            <td>
+                {{ .Params.no }}
+            </td>
+            <td>
+                <a href="{{ .Params.file }}" class="download-button">
+                    View PDF
+                </a>
+            </td>
+        </tr>
+    {{ end }}
+    </table>
+</body>
+</html>
