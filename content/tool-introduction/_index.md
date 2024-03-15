@@ -1,5 +1,5 @@
 ---
-title: Intruduction to the GEAS decipehrment tool
+title: Intruduction to the GEAS decipherment tool
 shorttitle: GEAS Tool & Fonts
 toolbox: 1
 weight: 10
