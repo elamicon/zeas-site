@@ -240,12 +240,12 @@ table.journal td {
 	padding: 0.5em;
 }
 
-table.journal tr:nth-child(odd) {
-	background-color: #404040;
+table.journal tr {
+	background-color: #31191a;
 }
 
-table.journal tr:nth-child(even) {
-	background-color: #3d1f21;
+table.journal tr:nth-child(odd) {
+	background-color: #313131;
 }
 
 .download-button {
