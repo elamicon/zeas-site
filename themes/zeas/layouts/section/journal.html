@@ -23,7 +23,9 @@
     {{ range .Data.Pages }}
         <tr>
             <td>
-                <h3>{{ .Params.authors }}</h3>
+            {{ range .Params.authors }}
+                <h3>{{ . }}</h3>
+            {{ end }}
             </td>
             <td>
                 <a href="{{ .Params.file }}">
@@ -35,7 +37,7 @@
             </td>
             <td>
                 <a href="{{ .Params.file }}" class="download-button">
-                    View PDF
+                    View&nbsp;PDF
                 </a>
             </td>
         </tr>
