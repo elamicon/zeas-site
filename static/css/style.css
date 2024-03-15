@@ -1,34 +1,34 @@
 @font-face {
-	font-family: 'ElamiconLiberationSerif';
-	src: url('../tool/fonts/ElamiconLiberationSerif-Regular.ttf');
+	font-family: 'GEASLiberationSerif';
+	src: url('../tool/fonts/GEASLiberationSerif-Regular.ttf');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'ElamiconLiberationSerif';
-	src: url('../tool/fonts/ElamiconLiberationSerif-Bold.ttf');
+	font-family: 'GEASLiberationSerif';
+	src: url('../tool/fonts/GEASLiberationSerif-Bold.ttf');
 	font-weight: bold;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'ElamiconLiberationSans';
-	src: url('../tool/fonts/ElamiconLiberationSans-Regular.ttf');
+	font-family: 'GEASLiberationSans';
+	src: url('../tool/fonts/GEASLiberationSans-Regular.ttf');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'ElamiconLiberationSans';
-	src: url('../tool/fonts/ElamiconLiberationSans-Bold.ttf');
+	font-family: 'GEASLiberationSans';
+	src: url('../tool/fonts/GEASLiberationSans-Bold.ttf');
 	font-weight: bold;
 	font-style: normal;
 }
 
 
 body {
-	font-family: "ElamiconLiberationSans", "Verdana";
+	font-family: "GEASLiberationSans", "Verdana";
 	color: #E2D8CF;
 	background-color: black;
 }
@@ -81,12 +81,12 @@ h1 {
 }
 
 h1 .title {
-	font-family: "ElamiconLiberationSerif", "Times New Roman";
+	font-family: "GEASLiberationSerif", "Times New Roman";
 	font-size: 1.5ex;
 }
 
 h1 .subtitle {
-	font-family: "ElamiconLiberationSerif", "Times New Roman";
+	font-family: "GEASLiberationSerif", "Times New Roman";
 	font-size: 1ex;
 	text-align: right;
 }
@@ -99,7 +99,7 @@ h1 .subtitle {
 .menu ul {
 	margin: 0;
 	padding: 0;
-	font-family: "ElamiconLiberationSerif", "Times New Roman";
+	font-family: "GEASLiberationSerif", "Times New Roman";
 	list-style: none;
 }
 
