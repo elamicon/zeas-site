@@ -8,3 +8,6 @@ baseurl = ""
 relativeurls = true
 
 SectionPagesMenu = "main"
+
+[markup.goldmark.renderer]
+unsafe = true
