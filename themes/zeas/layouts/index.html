@@ -11,12 +11,16 @@
     <section class="news">
         <h2>News</h2>
         {{ range where site.RegularPages "Section" "news" }}
-        <h3><a href="{{ .RelPermalink }}">{{ .Params.title }}</a></h3>
-        <p>{{ .Params.date.Format "2006-01-02" }}</p>
-        <p>
-        {{ $summary := index (split .Content "</p>") 0 }}
-        {{ $summary | plainify }}
-        </p>
+        <a href="{{ .RelPermalink }}">
+        <article>
+            <h3>
+                <span class="date">{{ .Params.date.Format "2006.01.02" }}</span>
+                {{ .Params.title }}
+            </h3>
+            {{ $summary := index (split .Content "</p>") 0 }}
+            {{ $summary | plainify | truncate 400 "…" }}
+        </article>
+        </a>
         {{ end }}
     </section>
 
