@@ -196,6 +196,28 @@ aside img {
 	border-radius: 5px;
 }
 
+
+.news article {
+	margin: 0.3em 0;
+	padding: 0.6em;
+	color: #A2787A;
+	background-color: rgba(93, 48, 50, 0.8);
+}
+
+.news a {
+	text-decoration: none;
+}
+
+.news h3 {
+	margin-top: 0;
+	color: #F1D9DA;
+}
+
+.news h3 .date {
+	margin: 0;
+	color: #A2787A;
+}
+
 .team li {
 	position: relative;
 	display: block;
