@@ -11,6 +11,10 @@ permissions:
   id-token: write
   packages: write
 
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build-container:
     runs-on: ubuntu-latest
@@ -49,12 +53,6 @@ jobs:
 
     - name: Run CI script
       run: ./bin/ci
-
-    - name: Fix permissions
-      run: |
-        chmod -c -R +rX "public/" | while read line; do
-          echo "::warning title=Invalid file permissions automatically fixed::$line"
-        done
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
