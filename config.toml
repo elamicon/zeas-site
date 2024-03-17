@@ -9,5 +9,9 @@ relativeurls = true
 
 SectionPagesMenu = "main"
 
+# HACK so that PDF in content/ are included in the site,
+# include content/ in staticDir.
+staticDir = ["static", "content"]
+
 [markup.goldmark.renderer]
 unsafe = true
