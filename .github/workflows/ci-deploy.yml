@@ -9,21 +9,51 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  packages: write
 
 jobs:
+  build-container:
+    runs-on: ubuntu-latest
+    outputs:
+      docker-image: ${{ steps.docker-image.outputs.image }}
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Docker meta
+      id: docker-image
+      uses: docker/metadata-action@v4
+      with:
+        images: ghcr.io/elamicon/zeas-site
+        tags: |
+          type=ref,event=branch
+          type=sha
+
+    - name: Login to GitHub Container Registry
+      uses: docker/login-action@v2
+      with:
+        registry: ghcr.io
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Pull latest image
+      run: docker pull ghcr.io/elamicon/zeas-site:latest || true
+
+    - name: Build and push
+      uses: docker/build-push-action@v5
+      with:
+        context: .
+        push: true
+        tags: ghcr.io/${{ github.repository_owner }}/zeas-site-build:latest
+        cache-from: ghcr.io/${{ github.repository_owner }}/zeas-site-build:latest
+
   build:
     runs-on: ubuntu-latest
+    needs: build-container
     container:
-      image: debian:stable
+      image: ghcr.io/${{ github.repository_owner }}/zeas-site-build:latest
 
     steps:
-    - uses: actions/checkout@v3
-
-    - name: Install dependencies
-      run: |
-        apt-get update
-        apt-get install -y python3-fontforge hugo nodejs npm zip
-        npm install -g elm@0.19.1 uglify-js
+    - uses: actions/checkout@v4
 
     - name: Run CI script
       run: ./bin/ci
