@@ -19,15 +19,6 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - name: Docker meta
-      id: docker-image
-      uses: docker/metadata-action@v4
-      with:
-        images: ghcr.io/elamicon/zeas-site
-        tags: |
-          type=ref,event=branch
-          type=sha
-
     - name: Login to GitHub Container Registry
       uses: docker/login-action@v2
       with:
@@ -35,8 +26,8 @@ jobs:
         username: ${{ github.actor }}
         password: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Pull latest image
-      run: docker pull ghcr.io/elamicon/zeas-site:latest || true
+    - name: Cache pull
+      run: docker pull ghcr.io/${{ github.repository_owner }}/zeas-site-build:latest || true
 
     - name: Build and push
       uses: docker/build-push-action@v5
