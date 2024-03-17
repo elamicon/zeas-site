@@ -1,5 +1,5 @@
-#DefaultContentLanguage = "de"
-#languageCode = "de"
+DefaultContentLanguage = "en"
+languageCode = "en"
 
 title = "GEAS — Alice Kober Gesellschaft für die Entzifferung Antiker Schriftsysteme"
 theme = "zeas"
