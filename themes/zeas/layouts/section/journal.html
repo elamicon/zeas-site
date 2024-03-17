@@ -20,7 +20,7 @@
             <th>&nbsp;</th>
         </tr>
         </thead>
-    {{ range .Data.Pages }}
+    {{ range sort .Data.Pages "Params.no" "desc" }}
         <tr>
             <td>
             {{ range .Params.authors }}
