@@ -9,67 +9,51 @@ permissions:
   contents: write
   pages: write
   id-token: write
-  packages: write
 
 concurrency:
-  group: ci-${{ github.ref }}
+  group: "pages"
   cancel-in-progress: true
 
 jobs:
-  build-container:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v4
-
-    - name: Login to GitHub Container Registry
-      uses: docker/login-action@v2
-      with:
-        registry: ghcr.io
-        username: ${{ github.actor }}
-        password: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Set up Docker Buildx
-      uses: docker/setup-buildx-action@v3
-
-    - name: Build and push
-      uses: docker/build-push-action@v5
-      with:
-        context: .
-        push: true
-        tags: ghcr.io/${{ github.repository_owner }}/zeas-site-build:latest
-        cache-from: type=gha
-        cache-to: type=gha,mode=max
 
   build:
     runs-on: ubuntu-latest
-    needs: build-container
-    container:
-      image: ghcr.io/${{ github.repository_owner }}/zeas-site-build:latest
 
     steps:
-    - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: false
+          fetch-depth: 0
 
-    - name: Run CI script
-      run: ./bin/ci
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.123.3'
+          extended: true
 
-    - name: Upload artifact
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: public
+      - name: Hugo build
+        run: hugo --minify
 
-  deploy:
-    needs: build
+      - name: Checkout Elamicon build
+        uses: actions/checkout@v4
+        with:
+          repository: 'elamicon/elamicon'
+          ref: 'build'
+          path: 'elamicon-build'
 
-    permissions:
-      pages: write
-      id-token: write
+      - name: cleanup Elamicon build
+        run: rm -r elamicon-build/.git
 
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      - name: Copy Elamicon build
+        run: cp -r elamicon-build public/tool
 
-    runs-on: ubuntu-latest
-    steps:
+      - name: Create CNAME file
+        run: echo "center-for-decipherment.ch" > public/CNAME
+
       - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/master'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
