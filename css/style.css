@@ -1,36 +1,42 @@
 @font-face {
-	font-family: 'ElamiconLiberationSerif';
-	src: url('../tool/fonts/ElamiconLiberationSerif-Regular.ttf');
+	font-family: 'GEASRedditSans';
+	src: url('../tool/fonts/GEASRedditSans-Regular.ttf');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'ElamiconLiberationSerif';
-	src: url('../tool/fonts/ElamiconLiberationSerif-Bold.ttf');
+	font-family: 'GEASRedditSans';
+	src: url('../tool/fonts/GEASRedditSans-Bold.ttf');
 	font-weight: bold;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'ElamiconLiberationSans';
-	src: url('../tool/fonts/ElamiconLiberationSans-Regular.ttf');
+	font-family: 'GEASRedditSansCondensed';
+	src: url('../tool/fonts/GEASRedditSans-Regular.ttf');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'ElamiconLiberationSans';
-	src: url('../tool/fonts/ElamiconLiberationSans-Bold.ttf');
+	font-family: 'GEASRedditSansCondensed';
+	src: url('../tool/fonts/GEASRedditSansCondensed-Regular.ttf');
 	font-weight: bold;
 	font-style: normal;
 }
 
 
 body {
-	font-family: "ElamiconLiberationSans", "Verdana";
+	font-family: "GEASRedditSans", "Verdana";
 	color: #E2D8CF;
 	background-color: black;
+}
+
+@media only screen and (max-width: 1000px) {
+    body {
+        font-family: "GEASRedditSansCondensed", "Verdana";
+    }
 }
 
 @media screen and (min-width: 480px) {
@@ -60,11 +66,10 @@ header.big {
 
 .masthead {
 	display: inline-block;
-	font-size: 200%;
 }
 
 .masthead.big {
-	font-size: 400%;
+	font-size: 200%;
 }
 
 
@@ -73,11 +78,21 @@ header.big {
 	display: block;
 }
 
-.masthead .title {
-	display: inline-block;
-	font-family: "ElamiconLiberationSerif", "Times New Roman";
-	background-color: #5D3032;
+h1 {
+	margin: 0;
 	padding: 0.5em;
+	background-color: #5D3032;
+	color: #d5c0c0;
+
+}
+
+h1 .title {
+	font-size: 1.5ex;
+}
+
+h1 .subtitle {
+	font-size: 1ex;
+	text-align: right;
 }
 
 
@@ -88,7 +103,6 @@ header.big {
 .menu ul {
 	margin: 0;
 	padding: 0;
-	font-family: "ElamiconLiberationSerif", "Times New Roman";
 	list-style: none;
 }
 
@@ -119,6 +133,30 @@ header.big {
 	text-decoration: none;
 }
 
+.menu .highlight {
+	background-color: #30191a;
+}
+
+.toolbox {
+	float: right;
+	margin: 0.5em;
+	padding: 0.5ex 1em 1ex 1em;
+	border-radius: 10px;
+	background-color: #2a2a2a;
+}
+
+.toolbox h3 {
+	text-align: center;
+	margin: 0.5em 0;
+}
+
+.toolbox a {
+	display: block;
+	text-align: center;
+	padding: 0.1em;
+	margin: 0.5m 0;
+}
+
 aside {
 	margin: 0.5em;
 	padding: 1em;
@@ -137,8 +175,7 @@ aside img {
 	margin: 0.5em;
 }
 
-.listing a {
-	text-decoration: none;
+.listing .entry {
 	display: block;
 	padding: 0.5em;
 	overflow: auto;
@@ -149,8 +186,44 @@ aside img {
 	margin: 0;
 }
 
+.listing .download-button {
+	display: block;
+	padding: 0.5em;
+	overflow: auto;
+	color:#E2D8CF;
+	background-color: rgba(214, 217, 218, 0.2);
+	display: inline-block;
+	border-radius: 5px;
+}
+
+
+.news article {
+	margin: 0.3em 0;
+	padding: 0.6em;
+	color: #A2787A;
+	background-color: rgba(93, 48, 50, 0.8);
+}
+
+.news a {
+	text-decoration: none;
+}
+
+.news h3 {
+	margin-top: 0;
+	color: #F1D9DA;
+}
+
+.news h3 .date {
+	margin: 0;
+	color: #A2787A;
+}
+
 .team li {
 	position: relative;
+	display: block;
+	padding: 0.5em;
+	overflow: auto;
+	clear: both;
 }
 
 .team .photo {
@@ -162,22 +235,57 @@ aside img {
 	width: 9em;
 }
 
-.member-details {
-	float: left;
-	overflow: auto;
+
+dl.member-details {
+	display: flex;
+	flex-direction: column;
+   }
+
+   dl > div {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+   }
+
+   dt {
+	flex-basis: 20%;
+	padding: 2px 5px;
+	text-align: right;
+	color: #fff;
+   }
+
+   dd {
+	flex-basis: 70%;
+	flex-grow: 1;
+	margin: 0;
+	padding: 2px 5px;
+   }
+
+table.journal td {
+	padding: 0.5em;
+}
+
+table.journal tr {
+	background-color: #31191a;
+}
+
+table.journal tr:nth-child(odd) {
+	background-color: #313131;
+}
+
+.download-button {
 	display: block;
+	padding: 0.5em;
+	overflow: auto;
+	color:#E2D8CF;
+	background-color: rgba(214, 217, 218, 0.2);
+	display: inline-block;
+	border-radius: 5px;
 }
 
-.member-details dt {
-	float: left;
-	clear: both;
-	min-width: 6em;
-}
 
-.member-details dd {
-	float: left;
-	margin-left: 1em;
-}
+
+
 
 #background {
    position: fixed;
