@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01
-title: "Does Brian Colless refuse the  *me-ke-t-*ATON  ≈   *me-ri-t-*ATON proposal?"
+title: "Does Brian Colless refuse the  me-ke-t-ATON  ≈   me-ri-t-ATON proposal?"
 tags: [byblos]
 ---
 We appreciate Brian Colless’ great and almost live-long efforts and contributions to the deipherment of the Byblos syllabary, and we agree that IF one of the former claims for full decipherment should be partially taken for serious, then it is clearly Mendenhall’s (1985) work, who integrates Dunanats (1945) basic observations better and more cautiously than anyone since and before. 
