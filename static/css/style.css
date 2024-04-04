@@ -273,6 +273,10 @@ table.journal tr:nth-child(odd) {
 	background-color: #313131;
 }
 
+table.journal a {
+	text-decoration: none;
+}
+
 .download-button {
 	display: block;
 	padding: 0.5em;
