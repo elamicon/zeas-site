@@ -10,9 +10,11 @@
 
     <section class="news">
         <h2>News</h2>
-        By using the GEAS decipherment tool with its dynamic syllabary sequence detection method,
+        <div class="intro">
+            By using the GEAS decipherment tool with its dynamic syllabary sequence detection method,
         we have contributed to a number of small-step decipherment advancements with results
         partially or fully accepted among scholars.
+        </div>
         {{ range where site.RegularPages "Section" "news" }}
         <a href="{{ .RelPermalink }}">
         <article>
