@@ -3,6 +3,9 @@ title: GEAS Journal
 shorttitle: Journal
 toolbox: 1
 weight: 40
+aliases:
+- /pubs/mäder-2020__proto-_und_linear-elamisch/
+- /pubs/Proto-_und_Linear-Elamisch
 ---
 Begleitpapiere zum Entzifferungstool – Alice Kober Gesellschaft für die Entzifferung antiker Schriftsysteme (GEAS)  is a non peer-reviewed online journal providing
 
