@@ -1,0 +1,58 @@
+---
+date: 2024-12-01
+title: "GEAS claims breakthrough by means of Experimental Script Archaeology: The Origin of the Futhark order"
+tags: [northitalic]
+---
+In the past years, two things have changed in regard to the long-lasting debate on the provenance of runic writing: At the one hand, Old European alphabets have been examined more thoroughly than ever, using modern paleographic methods in projects such as [TIR](https://tir.univie.ac.at/wiki/Main_Page), [LexLep](https://lexlep.univie.ac.at/wiki/Main_Page) and [PQN](https://center-for-decipherment.ch/journal/2023_01__Maeder__Paleografia-quantitativa-norditalica.pdf). At the other hand, archaeology has shown that North Italic writing was in use much longer than previously assumed, i.e. up to the 2nd century AD. With this, the Venetic "Reitia alphabet rituals" have once again come into focus as the source of Germanic writing. An article authored by GEAS members methods now claims to have solved virtually all of the rune provenance problems enabled by the use of experimental archaeology.
+
+> [This news article is an ultra-short excerpt of a GEAS article published in the proceedings of the 2022 ISRRI in Sankelmark, Germany:]
+
+> * Mäder, Michael (demnächst): „Der Fura-zara-kara-Merkspruch, der Rahmenquader-Effekt und ein alter Knoblauchkult: Die Übernahme des Futhark aus den norditalischen Alphabetritualen.“ Tagungsband ’Functions of Runic Literacy 200 to 1500 AD. Ninth International Symposium on Runes and Runic Inscriptions (ISRRI), Akademie Sankelmark, Germany, 14-19 June 2022’ (Runrön 26).
+
+
+---
+
+Back in 2021, the evidence-based Celtic Reenactment Clan "Iluis Glanna" held a three-day public workshop for Script Archaeology on the occasion of the renowned "Historischer Handwerker-Markt" at Huttwil in the Bernese rural hinterland. At night, after the doors would close for the public and the site would turn into a mystic scenery lid by torches and filled with the charmful singing of the neighbouring clans, the members of Iluis Glanna gathered around the bonfire and performed a ritual that has the potential to influence the real-world academic scholarship: The loudly sung and spoken reenactment of the "Reitia" alphabet ritual, documented on multiple 3rd century BC bronze tablets from Este, Northern Italy. According to the GEAS article cited above,  
+
+* A) the futhark order originates from the Fura-zara-(ϑera)-kara mnemonic written on the final lines of the learning tablets;
+* B) the inverse runes ("Sturzrunen") emerge from the fact that the tablet had to be turned around by 180° several times during the ritual;
+* C) several new letter forms have emerged from the fact that the rectangular grid ("Rahmenquader") confused uneducated users (e.g. Germanic Soldiers) as they allowed to the writer to omit vertical and horizontal strokes (e.g. runic  from Venetic ). 
+
+The explanation of the "Sturzeffekt" (B) and the "Rahmenquader-Effekt" (C) will be explained in upcoming news sketches. In the following lines we focus on the genesis of the letter order (A):
+
+According to the reconstruction by Pellegrini & Prosdocimi 1967 ("La lingua venetica") and Lejeune 1971 ("Sur l’enseignement de l’écriture et de l’orthographie vénètes"), the bronze tablets had initially been used as a learning tool (4.–3. century BC) and have later been fossilized into pure ritual use for worshipping Reitia, the Venetic goddess of writing and knowledge. The ritual consists of several consecutive "learning steps" which can quite clearly be understood by modern scholars (see below Abb. 1). The sixth step is crucial for the futhark order. It was the last and most difficult one, as it urged the pupil to memorize those consonant clusters which are, in Venetic orthography, exceptions to a complicated rule called syllable punctuation. In its vocalized form, the order of these non-punctuated clusters is Fura-funa-fula-fu / Zara-zana-zala / ϑera-ϑena-ϑela / Kara-kana-kala-ka ...(see below Abb. 2).
+
+As can be seen in Abb. 2, the second element of the clusters is always -r, -n, -l, -ø, so for the learning process it was – and still is for modern learners of Venetic! – enough to memorize the first clusters of each group (i. e. the ones underlined in Abb. 2). At this point, some knowledge of Old European writing must be adduced: a) the bigraph  ⟨vh⟩ is spelled as an /f/ in Venetic. b) Because of the fact that  has retained its phoenician letter name /waw/, the signs  and , when spelled as a letter name, were vocalized on -au or -u (while the letters ⟨r⟩, ⟨z⟩ and ⟨k⟩ were vocalized on -a, and the Theta ⟨ϑ⟩ on -e). The result is the following mnemonic:
+
+Fura-zara-ϑera-kara-...
+
+As is generally known in North Italic linguistics, the Theta (ϑ) was a so-called "lettre morte" (Lejeune): It had been inherited from the Etruscan alphabet and was upheld in theoretical alphabetaries, but neglected in the practical use of writing as the corresponding dental sound was inexistant in the Venetic language. As a result, we obtain 
+
+## Fura-zara-kara
+
+which is a reasonable model for the Germanic alphabet name.
+
+The question remains as to how an alphabet name could be transmitted across the alps as a purely phonetic entity, with the graphemic entities being completely ignored. For this, we first have to accept a fact that may astonish many enthusiasts of the runes: **Before c. 900 AC, there was no consistent futhark order after the k-rune.** The alphabetary containing 24 runes, compartimented in 3 aettir with 8 letters, is a medieval invention powered by the lust for number-magic. Even the futhark on the Kylver stone can not serve as a perfect model (see Tab. 1). Accoding to the GEAS article, the striking inconsistency in the Germanic Alphabetaries after the first five to six letter names can be explained by neurolinguistics, i. e. by cross-linguistic restrictions of phonetic key-word memorization. In other words, the futhark order must have been transferred to the North by acoustic imitation, namely by the repetitive murmuring of the Fura-zara-kara mnemonic. Together with ample evidence from the archaeology of the earliest rune inscriptions (see fn. 5 in the article cited above), this statement favourizes the so-called mercenary thesis: The transfer of the (defective) knowledge must have been committed by uneducated mercenaries who – maybe when working as a guard or rite assistant in Este – were confronted with the constant repetition of the consonant cluster row during the learning rituals, and brought their defective knowledge back home to Northern Europe, alongside with inscriptions on their weaponry, or models for love letters (mostly female names, often accompanied with the germanic word leub 'love(ly)' which they handed over to goldsmiths in their respective hometowns. (With this theory, the GEAS article responds to an insight recently pointed out by the runologists Sigmund Oehrl (2014), and Michelle Waldispühl (2013): Elder Futhark inscriptions on weapons are mostly executed in a professional manner, whereas inscriptions on jewelry and other gifts – ususally fibula, brooches, pieces of furniture or small statues dedicated to females – show unsophisticated scribing techniques and an inconsequent use of letters. **This can only be explained by the mercenary thesis**: Emerited Germanic soldiers had a professional scribe incise their weaponry in Northern Italy, and additionally prepared a wooden model of a dedicative inscription, usually a female's name or a word such as  φađa 'father' found in the Frøyhov statue, in order to transfer that model inscription to the local Germanic artefact with their own untrained hands once they arrived at home.)
+
+The article cited above embraces some more aspects of the GEAS Rune adaptation theory. It includes the results yielded by an in-depth graphematic and grapho-phonetic investigation of the Elder Futhark which is part of the [Paleografia Quantitative Norditalica](https://center-for-decipherment.ch/journal/2023_01__Maeder__Paleografia-quantitativa-norditalica.pdf) and shows that 76 of the 125 graphic variants of the runes (cf. PQN, chapter 4.1), as well as 21 of the 24 main types of runes, have an identical forerunner in the North Italic alphabet continuum, with xx of them having a similar phonetic value, and xx having an identical phonetic value (PQN, chapter 3.4.1; c.f. Tab. 2 below). The cumulated grapho-phonetic is expressed by the combined Levenshtein Distance (LDgraphematic  ∧  LDphonetic). In Tab. 2, runes which are identical to North Italic predecessors in shape and sound, are expressed with LDg = 0 ∧ LDp = 0. Another example: Runes which are graphically identical with their NI counterpart, but only similar phonetically, get LDg = 0 ∧ LDp = 1. A definition of *identical*, *similar*, and *different* is part of the GEAS methodology and is reproduced in fn. 8 of the article cited above.
+
+ Adding the Jaccard Index to the combined Levenshtein Distance caluclations , the PQN (especially chapter 3.4 and Fig. 3) demonstrates the almost complete, and highly over-coincidental, grapho-phonetical integration of Germanic runes into the realm of Old Euroean, i. e. North Italic, alphabets. Combined with the many detected "allograph group borrowings" (to be explained in another news sketch), the PQN figures prove beyond doubt that the runes have emerged from North Italic Alphabets.
+
+
+
+
+
+
+
+**The most telling figures from the GEAS publications:**
+
+![The six learning steps of the Venetic Alphabet ritual. According to Lejeune (1971), the Fura-Funa-Fula-Fu row that lists all the consonant clusters that do not undergo syllable punctuation, was the last and the hardest to learn](Abb_1_NEU.png)
+
+![List of unpunctuated consonant clusters. For ancient as well as for modern learners of Venetic, it is enough to learn the first cluster of each -r/-n/-l group (i.e. the ones underlined). A loudly spoken, mantra-like repetition of the mnemonic must have been heard by German soldiers, and memorized acoustically.](Abb_2_NEU.png)
+
+![A "Rahmenquader"-generated variant of the d-rune on the Frøyhov inscription (a). Lepontic coins with allographs, i.e. intermediate forms between North Italic and Germanic writing (b-e).](Abb_4_Celtic Coins.png)
+
+![A North Italic "Ciottolone" found in Pfaffenhofen, Inntal, with the word alu incised, and other attestations of alu from Raetic ritual places.](Abb_6_7_ALLO_and_ALU in Venetic and Raetic.png)
+
+
+
