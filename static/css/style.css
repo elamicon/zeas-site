@@ -293,6 +293,7 @@ table.journal a {
 
 
 figure {
+  background-color: rgba(255, 255, 255, 0.7);
   margin: 1em;
   padding: 1em;
   display: inline-block;
@@ -307,11 +308,11 @@ figure img {
 }
 
 figure figcaption {
-  background-color: rgba(255, 255, 255, 0.7);
   padding: 0.5em;
   box-sizing: border-box;
   margin-top: 0.5em;
   width: 100%;
+  color: black;
 }
 
 
