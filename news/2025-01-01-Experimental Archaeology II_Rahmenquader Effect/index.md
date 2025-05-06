@@ -1,6 +1,6 @@
 ---
 date: 2025-01-01
-title: "GEAS claims breakthrough by means of Experimental Script Archaeology. Part II: The emergence of 'runic' sign forms through the Rahmenquader Effect"
+title: "GEAS claims breakthrough by means of Experimental Script Archaeology, Part II: The emergence of 'runic' sign forms through the Rahmenquader Effect"
 tags: [northitalic]
 ---
 Besides the proposal for the development of the futhark order (cf. part I), the GEAS Rune Provenance Theory contains other micro-theses to explain unsolved problems within the Rune transfer question. One more of these explanations – the *Rahmenquader Effect*, could be given solely due to the Reitia Alphabet Learning Procedure reappraised by actors of the "Iluis Glanna" Celtic Clan in 2021 Huttwil, Switzerland.
@@ -25,9 +25,13 @@ One other result of the Rahmenquader Effect is that if a pupil tries to remember
 
 From c. 300 BC onwards, a large number of signs appear in North Italic writing, especially in Lepontic. They are characterized by inversion, and by added or eliminated strokes compared to their pre-300 BC predecessors. Crucially, most of the new shapes happened to become Germanic runes, too. The GEAS Rune Provenance Theory also points out a special writing style in late Lepontic (1st to 3rd century BC) Wallis, Switzerland, which they call sedunic / late lepontic fashion style. It is characterized by angular, close-to-45° angles and straight, clear strokes, and thus is to be considered proto-runic.
 
-![Excerpt of the 40-page long PQN tables](EinsichtPQN.png)
+![New shapes produced by the Rahmenquader Effect](Table 3.png)
+
+New shapes produced by the Rahmenquader Effect
 
 ![A "Rahmenquader"-generated variant of the d-rune on the Frøyhov inscription (a). Lepontic coins with allographs, i.e. intermediate forms between North Italic and Germanic writing (b-e).](Abb_4_Celtic Coins.png)
+
+A "Rahmenquader"-generated variant of the d-rune on the Frøyhov inscription (a). Lepontic coins with allographs, i.e. intermediate forms between North Italic and Germanic writing (b-e).
 
 
 
