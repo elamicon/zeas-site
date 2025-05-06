@@ -25,11 +25,12 @@ One other result of the Rahmenquader Effect is that if a pupil tries to remember
 
 From c. 300 BC onwards, a large number of signs appear in North Italic writing, especially in Lepontic. They are characterized by inversion, and by added or eliminated strokes compared to their pre-300 BC predecessors. Crucially, most of the new shapes happened to become Germanic runes, too. The GEAS Rune Provenance Theory also points out a special writing style in late Lepontic (1st to 3rd century BC) Wallis, Switzerland, which they call sedunic / late lepontic fashion style. It is characterized by angular, close-to-45° angles and straight, clear strokes, and thus is to be considered proto-runic.
 
-![New shapes produced by the Rahmenquader Effect](Table_3.png)
+{{< figure src="Table_3.png" caption="New shapes produced by the Rahmenquader Effect" >}}
 
 New shapes produced by the Rahmenquader Effect
 
-![A "Rahmenquader"-generated variant of the d-rune on the Frøyhov inscription (a). Lepontic coins with allographs, i.e. intermediate forms between North Italic and Germanic writing (b-e).](Abb_4_Celtic_Coins.png)
+
+{{< figure src="Abb_4_Celtic_Coins.png" caption="A “Rahmenquader”-generated variant of the d-rune on the Frøyhov inscription (a). Lepontic coins with allographs, i.e. intermediate forms between North Italic and Germanic writing (b-e)." >}}
 
 A "Rahmenquader"-generated variant of the d-rune on the Frøyhov inscription (a). Lepontic coins with allographs, i.e. intermediate forms between North Italic and Germanic writing (b-e).
 
