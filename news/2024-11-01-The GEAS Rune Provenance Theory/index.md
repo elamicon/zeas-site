@@ -73,9 +73,9 @@ Qualitative Palaeography: Bringing up detailed theories to explain particular pa
 
 ![List of unpunctuated consonant clusters. For ancient as well as for modern learners of Venetic, it is enough to learn the first cluster of each -r/-n/-l group (i.e. the ones underlined). A loudly spoken, mantra-like repetition of the mnemonic must have been heard by German soldiers, and memorized acoustically.](Abb_2_NEU.png)
 
-![A "Rahmenquader"-generated variant of the d-rune on the Frøyhov inscription (a). Lepontic coins with allographs, i.e. intermediate forms between North Italic and Germanic writing (b-e).](Abb_4_Celtic Coins.png)
+![A "Rahmenquader"-generated variant of the d-rune on the Frøyhov inscription (a). Lepontic coins with allographs, i.e. intermediate forms between North Italic and Germanic writing (b-e).](Abb_4_Celtic_Coins.png)
 
-![A North Italic "Ciottolone" found in Pfaffenhofen, Inntal, with the word alu incised, and other attestations of alu from Raetic ritual places.](Abb_6_7_ALLO_and_ALU in Venetic and Raetic.png)
+![A North Italic "Ciottolone" found in Pfaffenhofen, Inntal, with the word alu incised, and other attestations of alu from Raetic ritual places.](Abb_6_7_ALLO_and_ALU_in_Venetic_and_Raetic.png)
 
 
 
