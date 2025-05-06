@@ -30,7 +30,7 @@ From c. 300 BC onwards, a large number of signs appear in North Italic writing, 
 New shapes produced by the Rahmenquader Effect
 
 
-{{< figure src="Abb_4_Celtic_Coins.png" caption='A "Rahmenquader"-generated variant of the d-rune on the Frøyhov inscription (a). Lepontic coins with allographs, i.e. intermediate forms between North Italic and Germanic writing (b-e).' >}}
+{{< figure src="Abb_4_Celtic_Coins.png" caption="A “Rahmenquader”-generated variant of the d-rune on the Frøyhov inscription (a). Lepontic coins with allographs, i.e. intermediate forms between North Italic and Germanic writing (b-e)." >}}
 
 A "Rahmenquader"-generated variant of the d-rune on the Frøyhov inscription (a). Lepontic coins with allographs, i.e. intermediate forms between North Italic and Germanic writing (b-e).
 
