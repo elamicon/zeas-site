@@ -1,6 +1,6 @@
 ---
 date: 2024-12-01
-title: "GEAS Claims Breakthrough by Means of Experimental Script Archaeology: Part I: The Origin of the Futhark Order"
+title: "GEAS claims Breakthrough by means of Experimental Script Archaeology. Part I: The origin of the futhark order"
 tags: [northitalic]
 ---
 In the past years, two things have changed in regard to the long-lasting debate on the provenance of runic writing: At the one hand, Old European alphabets have been examined more thoroughly than ever, using modern paleographic methods in projects such as [TIR](https://tir.univie.ac.at/wiki/Main_Page), [LexLep](https://lexlep.univie.ac.at/wiki/Main_Page) and [PQN](https://center-for-decipherment.ch/journal/2023_01__Maeder__Paleografia-quantitativa-norditalica.pdf). At the other hand, archaeology has shown that North Italic writing was in use much longer than previously assumed, i.e. up to the 2nd century AD. With this, the Venetic "Reitia alphabet rituals" have once again come into focus as the source of Germanic writing. An article authored by GEAS members methods now claims to have solved virtually all of the rune provenance problems enabled by the use of experimental archaeology.
