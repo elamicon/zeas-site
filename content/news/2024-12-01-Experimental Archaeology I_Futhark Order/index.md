@@ -41,18 +41,12 @@ The article cited above embraces some more aspects of the GEAS Rune adaptation t
 
 
 
-
-
-
-**The most telling figures from the GEAS publications:**
-
 ![The six learning steps of the Venetic Alphabet ritual. According to Lejeune (1971), the Fura-Funa-Fula-Fu row that lists all the consonant clusters that do not undergo syllable punctuation, was the last and the hardest to learn](Abb_1_NEU.png)
 
 ![List of unpunctuated consonant clusters. For ancient as well as for modern learners of Venetic, it is enough to learn the first cluster of each -r/-n/-l group (i.e. the ones underlined). A loudly spoken, mantra-like repetition of the mnemonic must have been heard by German soldiers, and memorized acoustically.](Abb_2_NEU.png)
 
-![A "Rahmenquader"-generated variant of the d-rune on the Frøyhov inscription (a). Lepontic coins with allographs, i.e. intermediate forms between North Italic and Germanic writing (b-e).](Abb_4_Celtic Coins.png)
+![Ritual Master Chantal 'Slania' Bovard, hours before the 2021 alphabet ritual Reenactment.](Ritual_Master_Slania.png)
 
-![A North Italic "Ciottolone" found in Pfaffenhofen, Inntal, with the word alu incised, and other attestations of alu from Raetic ritual places.](Abb_6_7_ALLO_and_ALU in Venetic and Raetic.png)
-
+![Preparing the ritual place.](Preparing_the_ritual_place.png)
 
 

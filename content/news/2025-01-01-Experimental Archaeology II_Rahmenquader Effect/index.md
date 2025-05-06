@@ -36,3 +36,5 @@ A "Rahmenquader"-generated variant of the d-rune on the Frøyhov inscription (a)
 
 
 
+
+
