@@ -292,6 +292,29 @@ table.journal a {
 }
 
 
+figure {
+  margin: 1em;
+  padding: 1em;
+  display: inline-block;
+  max-width: 100%;
+  position: relative;
+}
+
+figure img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+figure figcaption {
+  background-color: rgba(255, 255, 255, 0.3);
+  padding: 0.5em;
+  width: 100%;
+  box-sizing: border-box;
+  position: relative;
+  bottom: 0;
+  left: 0;
+}
 
 
 
