@@ -295,8 +295,7 @@ table.journal a {
 figure {
   margin: 1em;
   padding: 1em;
-  display: flex;
-  flex-direction: column;
+  display: inline-block;
   max-width: 100%;
   box-sizing: border-box;
 }
@@ -310,11 +309,10 @@ figure img {
 figure figcaption {
   background-color: rgba(255, 255, 255, 0.7);
   padding: 0.5em;
-  width: 100%;
   box-sizing: border-box;
   margin-top: 0.5em;
+  width: 100%;
 }
-
 
 
 #background {
