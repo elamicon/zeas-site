@@ -15,7 +15,9 @@
         </a>
     </aside>
     {{ end }}
+    <div class="content">
     {{ .Content }}
+    </div>
 
     {{ with .Params.file }}
         <a href="{{ . }}">Download PDF</a>
