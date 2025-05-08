@@ -3,7 +3,7 @@ date: 2025-01-01
 title: "GEAS claims breakthrough by means of Experimental Script Archaeology, Part II: The emergence of 'runic' sign forms through the Rahmenquader Effect"
 tags: [northitalic]
 ---
-Besides the proposal for the development of the futhark order (cf. part I), the GEAS Rune Provenance Theory contains other micro-theses to explain unsolved problems within the Rune transfer question. One more of these explanations – the *Rahmenquader Effect*, could be given solely due to the Reitia Alphabet Learning Procedure reappraised by actors of the "Iluis Glanna" Celtic Clan in 2021 at Huttwil, Switzerland.
+Besides the proposal for the development of the futhark order [(cf. part I)](https://center-for-decipherment.ch/news/2024-12-01-experimental-archaeology-i_futhark-order/), the GEAS Rune Provenance Theory contains other micro-theses to explain unsolved problems within the Rune transfer question. One more of these explanations – the *Rahmenquader Effect*, could be given solely due to the Reitia Alphabet Learning Procedure reappraised by actors of the "Iluis Glanna" Celtic Clan in 2021 at Huttwil, Switzerland.
 
 ---
 
