@@ -28,7 +28,7 @@ Moreover, the PQN shows that the overall Jaccard Index between elder futhark Run
 ## Evidence No. 3: 
 The most striking, and actually incontestable evidence for the full grapho-phonological integration of the runes into North Italic alphabets is the presence of so-called "borrowed allpograph groups" – e.g. the parallel transfer of several groups of *identical* variants with *identical* or *similar* phonetic values from one writing system to another. It serves as a probabilistic prove for its own, at least if it includes groups with more than three variants involved. This is the case for the runes: If all existing variants with their (Germanic) readings are considered, several allograph groups have been transferred to Germania: The most extensive one is the k-rune  with its variants , , , , ,  and . All these graphemes are present in North Italic where they represent velar sounds, namely  (Cam /k/),  (Cam /χ/),  (Ven /ks/),  (Cam /k/),  (Lep /k/; Lep /χ/),  (Lep /k/)  (Ven /g/),  and  (Cam /k/). Such a big allograph group makes it mathematically impossible for the sound/shape congruencies to be coincidental. In other words, the PQN table alone is the **mathematical proof that the runes and are a subset of the Celtic alphabets**.
 
-The paper has been accepted despite its provocative title, [«Norditalische und Germanische Runen»](https://www.isrri2022.uni-kiel.de/abstracts/#m%C3%A4der).
+The paper has been accepted despite its provocative title, [«Norditalische und Germanische Runen im Lichte der Drop-in-Entlehnung: Neues aus Archäologie und quantitativer Linguistik»](https://www.isrri2022.uni-kiel.de/abstracts/#m%C3%A4der).
 
 ---
 The forthcoming Runology article that covers parts of the PQN content is to be cited as:
