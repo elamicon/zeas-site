@@ -22,15 +22,16 @@ What made the confusion even worse was the fact that several times during the le
 
 ## The productivity of the Rahmenquader Effect
 
-From c. 300 BC onwards, a considerable number of new sign variants appear in North Italic writing, especially in Lepontic (cf. Maras 2014, Breve storia della scrittura celtica d’Italia. Ziχu 1:73–93). They are characterized by inversion, and by added or eliminated strokes compared to their pre-300 BC predecessors. Crucially, most of the new shapes happened to become Germanic runes, too. The GEAS Rune Provenance Theory also discusses a particular writing style in late Lepontic (1st century BC to 2nd century AD) represented by three inscriptions from Wallis, Switzerland, which they call sedunic / late lepontic fashion style. It is characterized by angular, close-to-45° angles and straight, clear strokes, and thus is to be considered proto-runic, i.e. intermediate between North Italic and Germanic wirting.
+From c. 300 BC onwards, a considerable number of new sign variants appear in North Italic writing, especially in Lepontic (cf. Maras 2014, Breve storia della scrittura celtica d’Italia. Ziχu 1:73–93). They are characterized by inversion, and by added or eliminated strokes compared to their pre-300 BC predecessors. Crucially, most of the new shapes happened to become Germanic runes, too. The GEAS Rune Provenance Theory also discusses a particular writing style in late Lepontic (1st century BC to 2nd century AD) represented by three inscriptions from Wallis (Argnou, Liddes, Gamsen; see [Mäder 2022](https://www.academia.edu/116524883/Neue_Walliser_Schl%C3%A4uche_f%C3%BCr_alten_lepontischen_Wein)) which they call Sedunic / late Lepontic fashion style. It is characterized by close-to-45° angles and straight, clear strokes, and thus is to be considered proto-runic, i.e. intermediate between North Italic and Germanic wirting. Among other runic forms, it comprises the  in an inscription worshipping  *poenino*, the Celtic equivalent of Jupiter. The Sedunic inscriptions thus fill the gap between North Italic Alphabets and Runes both palaeographically and chronologically.
 
 {{< figure src="Table_3.png" caption="New shapes produced by the Rahmenquader Effect" >}}
 
-
 {{< figure src="Abb_4_Celtic_Coins.png" caption="A Rahmenquader-generated variant of the d-rune on the Frøyhov inscription. The new reading offered by the GEAS article is φađa ‘father’, which covers the strikingly etruscoid φa-ligature, and fits the male statue it is written on (a). Lepontic coins with allographs, i.e. intermediate forms between North Italic and Germanic writing (b-e)." >}}
 
+Together with the PQN comparisons, which end up in the statement that every single rune variant has its identical predecessor in Northern Italy, the production of new sign variants through the Rahmenquader Effect is an integral part of the GEAS Rune Provenance Theory. 
 
-Together with the PQN comparisons which end up in the statement that every single rune variant has its identical predecessor in Northern Italy, the production of new sign variants through the Rahmenquader Effect is an integral part of the GEAS Rune Provenance Theory. 
+{{< figure src="Ritual_Master_Slania.png" caption="Iluis Glanna co-founder and Ritual Master Slania with two of her daughters, a few hours before the 2021 Alphabet Ritual performance. Her interest in archaeological science combines with a candid spirituality and a deep knowlege in healing plants. She also was the one who pointed at the alpine garlic protection rituals, hint that lead to the Runic **alu** = Venetic  allo = *Allium sativum* garlic hypothesis." >}}
+
 
 
 
