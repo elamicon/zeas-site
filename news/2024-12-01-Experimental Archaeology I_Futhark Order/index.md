@@ -50,12 +50,4 @@ The article cited above embraces some more aspects of the GEAS Rune adaptation t
 
 
 
-![The six learning steps of the Venetic Alphabet ritual. According to Lejeune (1971), the Fura-Funa-Fula-Fu row that lists all the consonant clusters that do not undergo syllable punctuation, was the last and the hardest to learn](Abb_1_NEU.png)
-
-![List of unpunctuated consonant clusters. For ancient as well as for modern learners of Venetic, it is enough to learn the first cluster of each -r/-n/-l group (i.e. the ones underlined). A loudly spoken, mantra-like repetition of the mnemonic must have been heard by German soldiers, and memorized acoustically.](Abb_2_NEU.png)
-
-![Ritual Master Chantal 'Slania' Bovard, hours before the 2021 alphabet ritual Reenactment.](Ritual_Master_Slania.png)
-
-![Preparing the ritual place.](Preparing_the_ritual_place.png)
-
 
