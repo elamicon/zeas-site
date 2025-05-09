@@ -32,6 +32,7 @@ Together with the PQN comparisons, which end up in the statement that every sing
 
 {{< figure src="Ritual_Master_Slania.png" caption="Iluis Glanna co-founder and Ritual Master Slania with two of her daughters, a few hours before the 2021 Alphabet Ritual performance. Her interest in archaeological science combines with a candid spirituality and a deep knowlege in healing plants. She also was the one who pointed at the alpine garlic protection rituals, hint that lead to the Runic **alu** = Venetic  allo = *Allium sativum* garlic hypothesis." >}}
 
+{{< figure src="Preparing_the_ritual_place.png" caption="Preparing the ritual place." >}}
 
 
 
