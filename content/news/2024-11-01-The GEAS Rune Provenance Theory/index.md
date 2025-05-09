@@ -41,15 +41,16 @@ The GEAS Rune Provenance Theory can be scheduled as follows:
 * 2.1  The Fura-zara-kara mnemonic as origin of the Futhark order
 * 2.2  The inevitable 'Rahmenquader' Effect as origin of new sign forms
 * 2.3  The inevitable 180°-inversion of the learning tablets as origin of inverted forms
-* 2.4  The Coexistence of seemingly NI and seemingly runic sign forms on lepontic coins
+* 2.4  The coexistence of seemingly NI and seemingly runic sign forms on lepontic coins
 * 2.5  NI predecessors and etymologies of runic formula words (alu, laukr, laþu) 
 * 2.6  NI predecessors of non-linguistic and logographic signs (feather sign, word dividers)
-* 2.7  NI predecessors of non-linguistic sign sequences
+* 2.7  NI predecessors of non-linguistic sign sequences (palindromoids such as )
 
 ## Part 3: Quantitative Palaeography: Bringing up grapho-phonetical and  grapho-mathematical proofs for the script adaptation
 * 3.1  Jaccard Index
 * 3.2  Levenshtein Distance 
-* 3.3  Probabilistic proofs of allograph group borrowings
+* 3.3  Combined graphico-phonetical Levenshtein Distance (LDg ∧ LDp)
+* 3.4  Probabilistic proofs of allograph group borrowings
 
 ## Part 4: Philology: Reading and translating rune inscriptions by the use of NI sound values
 * 4.1  The Frøyhov inscription
@@ -64,15 +65,16 @@ The GEAS Rune Provenance Theory can be scheduled as follows:
 * 5.3  Contributions by Experimental Linguistics
 * 5.4  The Terra X documentary
 
-
 The most telling figures from the GEAS publications:
 
 {{< figure src="Abb_6_7_ALLO_and_ALU_in_Venetic_and_Raetic.png" caption="According to the GEAS RPT, the famous runic ritual word **alu** is a reflex of venetic  **allo** ‘garlic’. The word can also be found on artefacts from the Sanzeno/Raetic ritual area, e.g.  **ađu** on a North Italic *ciottolone* votive stone, and other attestations on votive bones from Sanzeno. In the alpine area, garlic protection rituals were in use up to medieval times." >}}
 
-
 {{< figure src="Abb_1_NEU.png" caption="E23 ist the most complete one of the c. 29 bronze tablets found at the Reitia ritual place in Este. Even though the strokes are perfectly legible, the signs are often underspecified. For instance,  (or  if we include the frame) can stand for  /ϑ/ (Theta), but in other cases stands for  /t/ (Tau). This lead to the Rahmenquader Effect that produced a large number of novel graphemes." >}}
 
 {{< figure src="Abb_2_NEU.png" caption="The list of unpunctuated consonant clusters (= bottom lines of the bronze tablets) was difficult to memorize. For ancient as well as for modern learners of Venetic, it is best to learn the first cluster of each -r/-n/-l group (i.e. the ones underlined), which is spelled out *Fura-kara-zara...*. A loudly spoken, mantra-like repetition of the mnemonic must have been heard, and memorized acoustically, by German soldiers. According to the GEAS RPT, it has lead to the Futhark order." >}}
+
+
+{{< figure src="Genesis_of_inverted_runes.png" caption="Not only the turning of the bronze tablet, but also the twisting of the writing nails has inevitably lead to inverted signs (*Sturzrunen*). In this example,  śainatei ‘to the sanity’ is written over two sides of the nail. No matter how you turns the nail, you inevitably get inverted signs: Either  ⟨a⟩ turns into , oder  turns into  on the second line. It is easier to explain the inverted rune phenomenon by this effect than by assuming ‘mistakes’ or ‘magic’, as runologists often do." >}}
 
 
 
