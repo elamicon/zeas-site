@@ -14,14 +14,14 @@ The decision to include Germanic writing will potentially lead the Rune provenan
 {{< figure src="PQN_Tab_Part2.png" caption="Second part of Tab. 1 in chapter 3.4.1 of the PQN. It lists a total of 44 graphemes, i.e. the 24 main runes and 20 variants that are commonly accepted by runologists. Graphematic and phonetic Levenshtein Distances are given in the columns to the right. The average combined Levenshtein Distance (LDg ∧ LDp) is 4 ∧ 19 ÷ 44 = LDg∧p = 0.52. This is extremely low even if compared to LD's between writing systems that are related with certainty." >}} 
 
 
-An excerpt of chapter 3.4.2, Tab. 1 (pp. 36-39) from Paleografia Quantitativa Norditalica. On a graph ical level, every single one of the 125 rune variants has its identical (76 of 125) or similar (49 of 125) predecessor in North Italic writing. Cumulated with the phonetic values, the combined Levenshtein Distance provides an impressive proximity. Reading example: Compared to their North Italic predecessors ///, the **p**-rune  has  a *similar* shape (LDg = 1) and an *identical* sound value (LDp = 0). Thus, its combined Levensthein Distance is 1 (LDg ∧ LDp = 1)
+ Cumulating the graphematic with the phonetic values, the combined Levenshtein Distance provides an impressive proximity. The Levenshtein Distances given in Tab. 1 (from PQN, chapter 3.4.1) above can be read as follows: Compared to their North Italic predecessors ///, the **p**-rune  has a *similar* shape (LDg = 1) and an *identical* sound value (LDp = 0). Thus, its combined Levensthein Distance is 1 (: LDg ∧ LDp = 1). The **p**-rune is one of only three among the 24 main runes that has no *identical* predecessor in North Italic alpbabets.
 
 
 Moreover, the PQN shows that the overall Jaccard Index between elder futhark Runes and, for example, Lepontic, is higher than some of the Jaccard Indices among the North Italic Alphabets themselves! This forces us to consider the Germanic runes to be part of the North Italic alphabetic realm. Together with other arguments, we will present an overall rune origin theory at the ISRRI conference in Sankelmark, Germany. 
 
 {{< figure src="Jaccard_Index_Calculation.png" caption="Subset congruence ratio calculated by Jaccard Index. Example: The graphematic correspondence between the Elder Futhark and the Raetic alphabet (J = 0.203) is slightly higher than the one between Etruscan and Raetic (J = 0.200). (From: PQN, Fig. 3)." >}}
 
-The paper has been accepted despite its provocative title, [«Norditalische und Germanische Runen»](https://www.isrri2022.uni-kiel.de/abstracts/#m%C3%A4der). Düwel & Nedoma refer to the abstract in the "Ursprung der Runenschrift" chapter of their 2023 volume of "Runenkunde".
+The paper has been accepted despite its provocative title, [«Norditalische und Germanische Runen»](https://www.isrri2022.uni-kiel.de/abstracts/#m%C3%A4der).
 
 ---
 The forthcoming Runology article that covers parts of the PQN content is to be cited as:
