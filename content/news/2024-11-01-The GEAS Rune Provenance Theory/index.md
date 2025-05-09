@@ -74,7 +74,7 @@ The most telling figures from the GEAS publications:
 {{< figure src="Abb_2_NEU.png" caption="The list of unpunctuated consonant clusters (= bottom lines of the bronze tablets) was difficult to memorize. For ancient as well as for modern learners of Venetic, it is best to learn the first cluster of each -r/-n/-l group (i.e. the ones underlined), which is spelled out *Fura-kara-zara...*. A loudly spoken, mantra-like repetition of the mnemonic must have been heard, and memorized acoustically, by German soldiers. According to the GEAS RPT, it has lead to the Futhark order." >}}
 
 
-{{< figure src="Genesis_of_inverted_runes.png" caption="Not only the turning of the bronze tablet, but also the twisting of the writing nails has inevitably lead to inverted signs (*Sturzrunen*). In this example,  śainatei ‘to the sanity’ is written over two sides of the nail. No matter how you turns the nail, you inevitably get inverted signs: Either  ⟨a⟩ turns into , oder  turns into  on the second line. It is easier to explain the inverted rune phenomenon by this effect than by assuming ‘mistakes’ or ‘magic’, as runologists often do." >}}
+{{< figure src="Genesis_of_inverted_runes.png" caption="Not only the turning of the bronze tablet, but also the twisting of the writing nails has inevitably lead to inverted signs (*Sturzrunen*). In this example,  śainatei ‘to the sanity’ is written over two sides of the nail. No matter how you turn the nail, you inevitably get inverted signs: Either  ⟨a⟩ turns into , oder  ⟨n⟩ turns into  on the second line. It is easier to explain the inverted rune phenomenon by this effect than by assuming ‘mistakes’ or ‘magic’, as runologists often do." >}}
 
 
 
