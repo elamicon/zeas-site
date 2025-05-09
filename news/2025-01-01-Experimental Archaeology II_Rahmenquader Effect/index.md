@@ -26,7 +26,7 @@ From c. 300 BC onwards, a considerable number of new sign variants appear in Nor
 
 {{< figure src="Table_3.png" caption="New shapes produced by the Rahmenquader Effect" >}}
 
-{{< figure src="Abb_4_Celtic_Coins.png" caption="A Rahmenquader-generated variant of the d-rune on the Frøyhov inscription. The new reading offered by the GEAS article is φađa ‘father’, which covers the strikingly etruscoid φa-ligature, and fits the male statue it is written on (a). Lepontic coins with allographs, i.e. intermediate forms between North Italic and Germanic writing (b-e)." >}}
+{{< figure src="Abb_4_Celtic_Coins.png" caption="A Rahmenquader-generated variant of the d-rune on the Frøyhov inscription. The new reading offered by the GEAS article is **φađa** ‘father’, which covers the etruscoid φa-ligature, and fits the male statue it is written on (a). Lepontic coins with allographs, i.e. intermediate forms between North Italic and Germanic writing (b-e)." >}}
 
 Together with the PQN comparisons, which end up in the statement that every single rune variant has its identical predecessor in Northern Italy, the production of new sign variants through the Rahmenquader Effect is an integral part of the GEAS Rune Provenance Theory. 
 
