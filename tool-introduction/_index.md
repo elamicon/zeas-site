@@ -21,9 +21,9 @@ In the toolbox to the upper right of each corpus page, a number of temporary set
 
 In the folders beneath the **character** picker of each corpus, a number of basic settings can be modified:
 
-* **Sandbox:** A helpful Unicode text field for your browser based work proceeding.
+* **Sandbox:** A helpful Unicode text field for your browser-based work proceeding.
 
-* **Reliterator:** Inside of the sandbox folder we integrated a reliterator. This is a tool that converts transliterations (e.g. the ones of the Proto-Elamite tablets in CDLI) into signs of a given text corpus (e.g. the Linear Elamite signs in the OCLEI)
+* **Reliterator:** Inside of the sandbox folder we integrated a reliterator. This is a tool that converts existing transliterations (e.g. the ones of the Proto-Elamite tablets in CDLI) into signs of a given text corpus (e.g. the Linear Elamite signs in the OCLEI). It is a tool for specialists only, and no guarantee can be given for the accuracy of its output. To reliterate text, 1) Paste a given transliteration into the sandbox, e.g. "M362M102~eM309~aM362+M317M269". 2) Check the "Replace text" box below to open the "Word pair per line" window. 3) Paste in a simplified line-by-line signlist. 4) Copy the resulting text into a text document on your computer and choose the respective font, e.g. the GEAS ProtoElamite font.
 
 * **Sound values (current state of decipherment):** The sound value attributions given in this section determine the rendering of transliterations in the "replace with sound value" mode. The actual sound value pre-sets for each writing system represent the current evidence as accepted by the GEAS consortium. Our contributors try their best to provide literature references to the right of each sound value. (If not so, please check the literature lists in the "Intro and Sources" folder. Scholars of the respective fields are invited to contact GEAS for updates and criticism. Authors who use GEAS sound value lists are invited to mention us as a source, and add the date of access.
 
@@ -53,10 +53,10 @@ It is possible to combine the GEAS font with other fonts such as Verdana, Times 
 
 ## Citation
 The corpora published to this date can be cited as follows:
-Elamicon = Online Corpus of Linear Elamite inscriptions (OCLEI)
-Byblicon = Online Corpus of Byblos Inscriptions (OCBI)
-Deir Alla = Online Corpus of Deir Alla Inscriptions (OCDAI)
-Raeticon = Collection of Sign Variants in Raetic Inscriptions (linked to [TIR](https://tir.univie.ac.at/wiki/Main_Page) with gratitude to Corinna Salomon)
-Leponticon = Collection of Sign Variants in Lepontic, Camunic, and Brembonic Inscriptions (linked to [LexLep](https://lexlep.univie.ac.at/wiki/Main_Page) with gratitude to David Stifter)
-Etruricon = Collection of Sign Variants in Etruscan Inscriptions (no text corpus published)
-Runicon = Collection of Linguistic Sign Variants in the Elder Futhark (no text corpus published)
+* Elamicon = Online Corpus of Linear Elamite inscriptions (OCLEI)
+* Byblicon = Online Corpus of Byblos Inscriptions (OCBI)
+* Deir Alla = Online Corpus of Deir Alla Inscriptions (OCDAI)
+* Raeticon = Collection of Sign Variants in Raetic Inscriptions (linked to [TIR](https://tir.univie.ac.at/wiki/Main_Page) with gratitude to Corinna Salomon)
+* Leponticon = Collection of Sign Variants in Lepontic, Camunic, and Brembonic Inscriptions (linked to [LexLep](https://lexlep.univie.ac.at/wiki/Main_Page) with gratitude to David Stifter)
+* Etruricon = Collection of Sign Variants in Etruscan Inscriptions (no text corpus published)
+* Runicon = Collection of Linguistic Sign Variants in the Elder Futhark (no text corpus published)
