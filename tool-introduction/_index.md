@@ -7,11 +7,11 @@ weight: 10
 
 ## Tool Introduction
 
-The [decipherment tool](</tool/>) is a web-based application that allows you to browse inscriptions, access the respective photographs and drawings, search sign sequences, find an exhaustive literature list, and copy/paste text in these ancient scripts. The tool is available online as  libre software and works without installing the fonts on your system.
+The [decipherment tool](</tool/>) is a web-based application that allows you to browse inscriptions, access the respective photographs and drawings, modify the corpus, conduct a RegEx based search for sign sequences, find an exhaustive literature list, and copy/paste text in these ancient undeciphered scripts. The tool is available online as libre software and works without installing the fonts on your system.
 
 In the toolbox to the upper right of each corpus, a number of temporary settings can be modified:
 
-* writing direction: For writing systems which vary between sinistroverse and dextroverse inscriptions, the direction can be harmonised. This may be useful for rendering transliterations in scientific articles. Note that the signs themselves are not getting mirrored with this function.
+* **writing direction:** For writing systems which vary between sinistroverse and dextroverse inscriptions, the direction can be harmonised. This may be useful for rendering sign sequences and transliterations in scientific articles. Note that the signs themselves are not getting mirrored with this function.
 
 * Sign forms: By selecting "normalise per the syllabary", each sign token is replaced by its respective sign type, i.e. its priniciple variant as chosen in the Syllabary > Dynamic Syllabary > Grouping of variants/allographs. This allows for i) raising statistics touching the type/topen relation problem in writing systems with not yet established syllabaries, and ii) to render more phonetic transliterations in writing systems which contain a high ratio of variants with not yet established sound value proposals.
 
