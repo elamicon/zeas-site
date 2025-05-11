@@ -56,8 +56,8 @@ It is possible to combine the GEAS font with other fonts such as Verdana, Times 
 The corpora published to this date can be cited as follows:
 * Elamicon = Online Corpus of Linear Elamite inscriptions (OCLEI)
 * Byblicon = Online Corpus of Byblos Inscriptions (OCBI)
-* Deir Alla = Online Corpus of Deir Alla Inscriptions (OCDAI)
+* Jordanicon = Online Corpus of Deir Alla Inscriptions (OCDAI)
 * Raeticon = Collection of Sign Variants in Raetic Inscriptions (linked to [TIR](https://tir.univie.ac.at/wiki/Main_Page) with gratitude to Corinna Salomon)
 * Leponticon = Collection of Sign Variants in Lepontic, Camunic, and Brembonic Inscriptions (linked to [LexLep](https://lexlep.univie.ac.at/wiki/Main_Page) with gratitude to David Stifter)
-* Etruricon = Collection of Sign Variants in Etruscan Inscriptions (no text corpus published)
+* Etruricon = Collection of Sign Variants in Etruscan and Venetic Inscriptions (no text corpus published)
 * Runicon = Collection of Linguistic Sign Variants in the Elder Futhark (no text corpus published)
