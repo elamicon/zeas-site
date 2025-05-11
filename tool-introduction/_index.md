@@ -7,7 +7,7 @@ weight: 10
 
 ## Tool Introduction
 
-The [decipherment tool](</tool/>) is a web-based application that allows you to browse inscriptions, access the respective photographs and drawings, modify the corpus, conduct a RegEx based search for sign sequences, find an exhaustive literature list, and copy/paste text in these ancient undeciphered scripts. The tool is available online as libre software and works without installing the fonts on your system.
+The [decipherment tool](</tool/>) is a web-based application that allows you to browse inscriptions in a Unicode based corpus, access the respective photographs and drawings, modify the corpus in various ways, conduct a RegEx based search for sign sequences, find an exhaustive literature list, and copy/paste text in these ancient undeciphered scripts. The tool is available online as libre software and works without installing the fonts on your system.
 
 In the toolbox to the upper right of each corpus page, a number of temporary settings can be modified:
 
@@ -19,7 +19,7 @@ In the toolbox to the upper right of each corpus page, a number of temporary set
 
 * **Remove these signs from the corpus:** This function permits to exclude special signs that disturb the corpus search or the raising of statistics, e.g. the rupture sign    or the place holder . Each writing system has its particular problems, e.g. inconsequent use of word dividers, abundant use of phrase-introducing logograms etc.
 
-In the folders beneath the **character picker**, a number of basic settings can be modified:
+In the folders beneath the **character picker**, a number of specific tools can be applied:
 
 * **Sandbox:** A helpful Unicode text field for your browser-based work proceeding.
 
@@ -56,8 +56,8 @@ It is possible to combine the GEAS font with other fonts such as Verdana, Times 
 The corpora published to this date can be cited as follows:
 * Elamicon = Online Corpus of Linear Elamite inscriptions (OCLEI)
 * Byblicon = Online Corpus of Byblos Inscriptions (OCBI)
-* Deir Alla = Online Corpus of Deir Alla Inscriptions (OCDAI)
+* Jordanicon = Online Corpus of Deir Alla Inscriptions (OCDAI)
 * Raeticon = Collection of Sign Variants in Raetic Inscriptions (linked to [TIR](https://tir.univie.ac.at/wiki/Main_Page) with gratitude to Corinna Salomon)
 * Leponticon = Collection of Sign Variants in Lepontic, Camunic, and Brembonic Inscriptions (linked to [LexLep](https://lexlep.univie.ac.at/wiki/Main_Page) with gratitude to David Stifter)
-* Etruricon = Collection of Sign Variants in Etruscan Inscriptions (no text corpus published)
+* Etruricon = Collection of Sign Variants in Etruscan and Venetic Inscriptions (no text corpus published)
 * Runicon = Collection of Linguistic Sign Variants in the Elder Futhark (no text corpus published)
