@@ -23,6 +23,8 @@ In the folders beneath the **character** picker of each corpus, a number of basi
 
 * **Sandbox:** A helpful Unicode text field for your browser based work proceeding.
 
+* **Reliterator:** Inside of the sandbox folder we integrated a reliterator. This is a tool that converts transliterations (e.g. the ones of the Proto-Elamite tablets in CDLI) into signs of a given text corpus (e.g. the Linear Elamite signs in the OCLEI)
+
 * **Sound values (current state of decipherment):** The sound value attributions given in this section determine the rendering of transliterations in the "replace with sound value" mode. The actual sound value pre-sets for each writing system represent the current evidence as accepted by the GEAS consortium. Our contributors try their best to provide literature references to the right of each sound value. (If not so, please check the literature lists in the "Intro and Sources" folder. Scholars of the respective fields are invited to contact GEAS for updates and criticism. Authors who use GEAS sound value lists are invited to mention us as a source, and add the date of access.
 
 * **Dynamic Syllabary (Current state of decipherment):** Analyses of undeciphered or partially deciphered writing systems almost always suffer from the prejudices of the respective scholars as to which sign token (single occurrence of a certain graphical shape / Formvariante) is considered to be a variant of a suggested sign type / grapheme type. But in reality, intuition as to which variant belongs to which line in the syllabary/alphabetary almost always turns out to be erroneous as soon as a writing system is finally deciphered. Accordingly, the number of grapheme types can not be established with certainty during the decipherment process. In order to encouter this inevitable *Zirkelschluss*, the GEAS methodology consortium has established the dynamic syllabary method: For every raising of statistics and for every sign sequence search, the syllabary can be modified by manually changing the content of the syllabary entrances. Just copy and paste the signs you suspect to belong to another grapheme type. The character picker as well as the search results will immediately take into account your personalised syllabary. Do not forget to save your syllabaries on your computer. The less entrances your syllabary contains, the longer is the list of results for each sign sequence search you perform. In partially deciphered writing systems, the dynamic syllabary method has lead to many innovative sound value proposal.
@@ -36,12 +38,25 @@ In the folders beneath the **character** picker of each corpus, a number of basi
 * **Corpus of inscriptions:** The name of the inscription is given in majuscule or minuscule letters depending on the convention of the respective research field. The superscript names the sub-group a certain inscription is grouped in. The line of the inscription (as decided by the GEAS consortium in cases of doubt) is given in Roman numbers and pinned at the beginning of each line. (Please contact GEAS if you have evidence for a different writing direction or a different line order.) If a line is interrupted by a physical rupture of the artefact, this is noted by   . Visible traces of illegible signs are noted by , disregarding the conventions of the respective research field. In order to reproduce sequences in your dextroverse scientific articles, please use the toolbox to change the direction into LtR. For each inscription we offer either a slide with all photographs and drawings available in the literature including archaeological information and references to the excavation reports, or a link leading to friendly online corpora which meet scientific standards, and collaborate with GEAS.
 
 
+
 ## Fonts
 
-To copy text snippets from the GEAS decipherment tool and use them in your documents, you need to install the fonts on your system. When the fonts are available on your system, you can choose them in all applications, and generate PDF documents containing the glyphs.
+To copy text snippets from the GEAS decipherment tool and use them in your documents, you need to install the fonts on your system. You can choose them in all applications, and generate PDF documents containing the glyphs.
 
-Downlad the [GEAS font collection](/tool/fonts/GEAS-Fonts.zip) and unzip it. Copy the TTF files to your system font directory.
+Downlad the [GEAS font collection](/tool/fonts/GEAS-Fonts.zip) and get faster in composing your articles and notes.
 
-We've combined the font glyphs with the Liberation font so that you can write text including GEAS glyphs without havint to switch to another font. The Liberation fonts and our derivative GEAS font are available under the SIL Open Font License (OFL). The OFL is a free, open source license that allows you to use, modify, and distribute the fonts. The license is available on the [SIL website](https://scripts.sil.org/OFL).
+We've combined the font glyphs with the Liberation font so that you can write text including GEAS glyphs without having to switch to another font. The Liberation fonts as well as the derivative GEAS-Liberation font is available under the SIL Open Font License (OFL). This allows you to use, modify, and distribute the fonts. The license is available on the [SIL website](https://scripts.sil.org/OFL).
 
-It is possible to combine the GEAS font with other fonts such as Verdana, but due to licensing restrictions, we cannot publish font packages of such combinations.
+It is possible to combine the GEAS font with other fonts such as Verdana, Times New Roman etc., but due to licensing restrictions, we cannot publish font packages of such combinations. Feel free and ask for a specific combined font according to the requirements of your publishing house.
+
+
+
+## Citation
+The corpora published to this date can be cited as follows:
+Elamicon = Online Corpus of Linear Elamite inscriptions (OCLEI)
+Byblicon = Online Corpus of Byblos Inscriptions (OCBI)
+Deir Alla = Online Corpus of Deir Alla Inscriptions (OCDAI)
+Raeticon = Collection of Sign Variants in Raetic Inscriptions (linked to [TIR](https://tir.univie.ac.at/wiki/Main_Page) with gratitude to Corinna Salomon)
+Leponticon = Collection of Sign Variants in Lepontic, Camunic, and Brembonic Inscriptions (linked to [LexLep](https://lexlep.univie.ac.at/wiki/Main_Page) with gratitude to David Stifter)
+Etruricon = Collection of Sign Variants in Etruscan Inscriptions (no text corpus published)
+Runicon = Collection of Linguistic Sign Variants in the Elder Futhark (no text corpus published)
