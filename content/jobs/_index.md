@@ -21,6 +21,8 @@ m.maeder@geass.ch
 
 
 
+-------------------------------------------------------------------------
+
 Gesucht: 
 ### Home office job: Akquisition Stiftungsgelder auf Provisionsbasis
 
