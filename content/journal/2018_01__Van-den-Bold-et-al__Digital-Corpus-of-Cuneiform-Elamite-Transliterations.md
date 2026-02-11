@@ -1,5 +1,5 @@
 ---
-authors: ["Van den Bold, Emma", "Schmutz, Elisabeth", "Mäder, Michael"]
-title: "Digital Corpus of Cuneiform Elamite Transliterations (DCCET) without the Achaemenid Elamite Texts"
-no: "2018/1"
+authors: ["Mäder, Michael"]
+title: "[Draft]:Proto- und Linear-Elamisch: Formaler Vergleich, Berechnung des Jaccard-Index und Identifikation einer Übergangsphase"
+no: "2020/7"
 ---
