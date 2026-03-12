@@ -7,7 +7,7 @@ aliases:
 - /pubs/mäder-2020__proto-_und_linear-elamisch/
 - /pubs/Proto-_und_Linear-Elamisch
 - / journal/2021_01__Maeder__Proto-und-Linear-Elamisch.pdf 
-- https://center-for-decipherment.ch/pubs/mäder-2020__proto-_und_linear-elamisch/]
+- "/pubs/mäder-2020__proto-_und_linear-elamisch/]"
 ---
 Begleitpapiere zum Entzifferungstool – Alice Kober Gesellschaft für die Entzifferung antiker Schriftsysteme (GEAS)  is a non peer-reviewed online journal providing
 
